@@ -1,2 +1,2 @@
 # TAFFC-bibliometrics
-Bibliometrics analysis on TAFFC
+Bibliometrics analysis on the IEEE Transactions on Affective Computing
