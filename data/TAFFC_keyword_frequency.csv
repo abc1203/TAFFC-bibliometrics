@@ -1,0 +1,3725 @@
+Year,Issue,Keyword,Frequency
+2024,2,Sentiment analysis,6
+2024,2,Social networking (online),1
+2024,2,Data mining,4
+2024,2,Blogs,1
+2024,2,Feature extraction,13
+2024,2,Deep learning,1
+2024,2,Convolutional neural networks,2
+2024,2,Computational modeling,6
+2024,2,Labeling,2
+2024,2,Adaptation models,2
+2024,2,Brain modeling,5
+2024,2,Electroencephalography,3
+2024,2,Transfer learning,2
+2024,2,Emotion recognition,10
+2024,2,Vehicles,1
+2024,2,Artificial intelligence,2
+2024,2,Roads,1
+2024,2,Signal detection,1
+2024,2,Automobiles,1
+2024,2,Psychology,2
+2024,2,Multitasking,1
+2024,2,Knowledge engineering,1
+2024,2,Visualization,5
+2024,2,Task analysis,14
+2024,2,Acoustics,1
+2024,2,Training,3
+2024,2,Data models,2
+2024,2,Transformers,6
+2024,2,Physiology,5
+2024,2,Annotations,3
+2024,2,Face recognition,5
+2024,2,Machine learning,2
+2024,2,Cameras,1
+2024,2,Anxiety disorders,1
+2024,2,Stress,1
+2024,2,Biomedical monitoring,1
+2024,2,Human factors,1
+2024,2,Perturbation methods,1
+2024,2,Analytical models,2
+2024,2,Fake news,1
+2024,2,Semantics,1
+2024,2,Predictive models,1
+2024,2,Training data,1
+2024,2,Bit error rate,1
+2024,2,Heating systems,1
+2024,2,Tagging,1
+2024,2,Syntactics,2
+2024,2,Pipelines,1
+2024,2,Hidden Markov models,1
+2024,2,Gaussian distribution,1
+2024,2,Decoding,3
+2024,2,Context modeling,2
+2024,2,Oral communication,2
+2024,2,Surveys,1
+2024,2,Human-robot interaction,1
+2024,2,Human computer interaction,1
+2024,2,User experience,1
+2024,2,Gold,2
+2024,2,Shape,1
+2024,2,Three-dimensional displays,2
+2024,2,Solid modeling,2
+2024,2,Knowledge graphs,1
+2024,2,Portable computers,1
+2024,2,Dynamics,1
+2024,2,Faces,2
+2024,2,Generative adversarial networks,1
+2024,2,Databases,2
+2024,2,Electrocardiography,1
+2024,2,Electromyography,1
+2024,2,Testing,1
+2024,2,Sensors,1
+2024,2,Monitoring,1
+2024,2,Reliability,1
+2024,2,Motion pictures,1
+2024,2,Functional magnetic resonance imaging,1
+2024,2,Whale optimization algorithms,1
+2024,2,Whales,1
+2024,2,Pain,1
+2024,2,Noise measurement,1
+2024,2,Computer vision,1
+2024,2,Redundancy,1
+2024,2,Affective computing,2
+2024,2,Meetings,1
+2024,2,Special issues and sections,1
+2024,2,Regulation,1
+2024,2,Bayes methods,2
+2024,2,Metadata,1
+2024,2,Particle measurements,1
+2024,2,Atmospheric measurements,1
+2024,2,Social robots,1
+2024,2,Muscles,1
+2024,2,Robots,1
+2024,2,Videos,1
+2024,2,Standards,1
+2024,2,Correlation,1
+2024,2,Uncertainty,1
+2024,2,Speech recognition,1
+2024,1,Physiology,2
+2024,1,Self-supervised learning,1
+2024,1,Feature extraction,8
+2024,1,Emotion recognition,8
+2024,1,Data models,8
+2024,1,Task analysis,11
+2024,1,Transformers,3
+2024,1,Multitasking,1
+2024,1,Face recognition,6
+2024,1,Lips,2
+2024,1,Faces,4
+2024,1,Semantics,3
+2024,1,Adversarial machine learning,1
+2024,1,Data visualization,1
+2024,1,Analytical models,3
+2024,1,Computational modeling,6
+2024,1,Gold,2
+2024,1,Ethics,9
+2024,1,Visualization,2
+2024,1,Transfer learning,1
+2024,1,Psychology,2
+2024,1,Reliability,2
+2024,1,Technological innovation,1
+2024,1,Guidelines,1
+2024,1,Usability,1
+2024,1,Wearable devices,1
+2024,1,Proposals,1
+2024,1,Training,5
+2024,1,Manuals,2
+2024,1,Optical imaging,1
+2024,1,Predictive models,2
+2024,1,Deep learning,1
+2024,1,Data mining,2
+2024,1,Acoustics,2
+2024,1,Context modeling,4
+2024,1,Oral communication,1
+2024,1,Monitoring,1
+2024,1,Gender issues,1
+2024,1,Europe,1
+2024,1,Indexes,1
+2024,1,Affective computing,5
+2024,1,Cultural differences,1
+2024,1,Urban areas,1
+2024,1,Recording,1
+2024,1,Databases,2
+2024,1,Protocols,2
+2024,1,Benchmark testing,1
+2024,1,Robustness,1
+2024,1,Videos,1
+2024,1,Emotional responses,1
+2024,1,Independent component analysis,1
+2024,1,Brain modeling,2
+2024,1,Electroencephalography,2
+2024,1,Integrated circuits,1
+2024,1,Modulation,1
+2024,1,Functional near-infrared spectroscopy,1
+2024,1,Crowdsourcing,1
+2024,1,Media,2
+2024,1,Annotations,2
+2024,1,Pipelines,1
+2024,1,Representation learning,1
+2024,1,Sentiment analysis,3
+2024,1,Correlation,1
+2024,1,Interference,1
+2024,1,Probabilistic logic,1
+2024,1,Image recognition,1
+2024,1,Uncertainty,1
+2024,1,Wheels,1
+2024,1,Image resolution,1
+2024,1,Particle measurements,1
+2024,1,Artificial intelligence,2
+2024,1,Industries,1
+2024,1,Video games,1
+2024,1,Games,1
+2024,1,Load modeling,1
+2024,1,Diseases,1
+2024,1,Employment,1
+2024,1,Human factors,2
+2024,1,Safety,1
+2024,1,Resists,1
+2024,1,Security,1
+2024,1,Privacy,2
+2024,1,Simulation,1
+2024,1,Modeling,1
+2024,1,Machine learning,1
+2024,1,Special issues and sections,1
+2024,1,Writing,1
+2024,1,Education,1
+2024,1,Software,1
+2024,1,Libraries,1
+2024,1,Facial muscles,1
+2024,1,Mood,1
+2024,1,Art,1
+2024,1,Surveillance,1
+2024,1,Convolution,1
+2024,1,Speech processing,1
+2024,1,Spectrogram,1
+2024,1,Depression,1
+2024,1,Buildings,1
+2024,1,Syntactics,1
+2024,1,Touch sensitive screens,1
+2024,1,Portable computers,1
+2024,1,Fans,1
+2023,4,Sentiment analysis,8
+2023,4,Tensors,1
+2023,4,Feature extraction,23
+2023,4,Transformers,12
+2023,4,Information exchange,1
+2023,4,Acoustics,2
+2023,4,Depression,5
+2023,4,Face recognition,13
+2023,4,Wireless fidelity,1
+2023,4,Emotion recognition,26
+2023,4,Discrete wavelet transforms,1
+2023,4,Sensors,4
+2023,4,Decoding,1
+2023,4,Physiology,8
+2023,4,Labeling,3
+2023,4,Data collection,3
+2023,4,Training,14
+2023,4,Electrocardiography,1
+2023,4,Games,3
+2023,4,Multitasking,2
+2023,4,Support vector machines,3
+2023,4,Task analysis,35
+2023,4,Deep learning,4
+2023,4,Target recognition,1
+2023,4,Reliability,2
+2023,4,Visualization,8
+2023,4,Computer architecture,3
+2023,4,Vehicles,1
+2023,4,Accidents,1
+2023,4,Anxiety disorders,2
+2023,4,Data mining,3
+2023,4,Media,1
+2023,4,Computational modeling,8
+2023,4,Cognition,2
+2023,4,Affective computing,4
+2023,4,Psychology,6
+2023,4,Heart rate variability,2
+2023,4,Faces,4
+2023,4,Biomedical monitoring,3
+2023,4,Videos,6
+2023,4,Skin,3
+2023,4,Observers,1
+2023,4,Predictive models,5
+2023,4,Appraisal,1
+2023,4,Behavioral sciences,9
+2023,4,Shape,1
+2023,4,Speech recognition,4
+2023,4,Focusing,1
+2023,4,Lips,1
+2023,4,Semantics,4
+2023,4,Market research,1
+2023,4,Artificial intelligence,1
+2023,4,Chatbots,1
+2023,4,Gold,3
+2023,4,Analytical models,4
+2023,4,Uncertainty,1
+2023,4,Bayes methods,1
+2023,4,COVID-19,1
+2023,4,Principal component analysis,1
+2023,4,Testing,2
+2023,4,Pandemics,1
+2023,4,Electrodes,2
+2023,4,Urban areas,1
+2023,4,Particle measurements,3
+2023,4,Navigation,1
+2023,4,Atmospheric measurements,3
+2023,4,Neural networks,2
+2023,4,Measurement,3
+2023,4,Oral communication,4
+2023,4,Noise measurement,4
+2023,4,Australia,1
+2023,4,Data models,5
+2023,4,Convolutional neural networks,2
+2023,4,Optimization,1
+2023,4,Image classification,1
+2023,4,Correlation,3
+2023,4,Electroencephalography,4
+2023,4,Fuses,1
+2023,4,Monitoring,2
+2023,4,Sensor systems,1
+2023,4,Cameras,3
+2023,4,Smart phones,1
+2023,4,Buildings,1
+2023,4,Image recognition,1
+2023,4,Statistics,1
+2023,4,Decision making,1
+2023,4,Reinforcement learning,2
+2023,4,Sociology,1
+2023,4,Autism,1
+2023,4,Variable speed drives,1
+2023,4,Pediatrics,1
+2023,4,Magnetic resonance imaging,1
+2023,4,Linguistics,1
+2023,4,Adaptation models,5
+2023,4,Prototypes,2
+2023,4,Keyboards,1
+2023,4,Knowledge engineering,1
+2023,4,Syntactics,2
+2023,4,Heterogeneous networks,1
+2023,4,Special issues and sections,1
+2023,4,Social robots,1
+2023,4,Robots,1
+2023,4,Robot sensing systems,2
+2023,4,Guidelines,1
+2023,4,Rescue robots,1
+2023,4,Electronic mail,3
+2023,4,Databases,2
+2023,4,Transfer learning,1
+2023,4,Bridges,1
+2023,4,Aggregates,1
+2023,4,Three-dimensional displays,1
+2023,4,Computer vision,1
+2023,4,Annotations,4
+2023,4,Transmitters,1
+2023,4,Control systems,1
+2023,4,Training data,2
+2023,4,Logic gates,2
+2023,4,Bit error rate,1
+2023,4,Pupils,1
+2023,4,Eyelids,1
+2023,4,Iris recognition,1
+2023,4,Brain modeling,4
+2023,4,Drives,1
+2023,4,Motion pictures,2
+2023,4,Manuals,1
+2023,4,Bonding,1
+2023,4,Social networking (online),1
+2023,4,Pattern recognition,1
+2023,4,IEC,1
+2023,4,Wheels,2
+2023,4,Dogs,1
+2023,4,Convolution,1
+2023,4,Image segmentation,1
+2023,4,Portable computers,1
+2023,4,Graph neural networks,1
+2023,4,Streaming media,1
+2023,4,Hidden Markov models,1
+2023,4,Speech synthesis,1
+2023,4,Hospitals,1
+2023,4,Interviews,1
+2023,4,Random forests,1
+2023,4,Blogs,1
+2023,4,Cyberbullying,1
+2023,4,Education,1
+2023,4,Systematics,1
+2023,4,Torso,1
+2023,4,Rigidity,1
+2023,4,Motion capture,1
+2023,4,Animation,1
+2023,4,Mood,1
+2023,4,Long short term memory,1
+2023,4,Wearable computers,1
+2023,3,Stress measurement,1
+2023,3,Anxiety disorders,2
+2023,3,Regulation,2
+2023,3,Vibrations,1
+2023,3,Particle measurements,2
+2023,3,Skin,2
+2023,3,Atmospheric measurements,2
+2023,3,Support vector machines,1
+2023,3,Computational modeling,12
+2023,3,Predictive models,5
+2023,3,Labeling,1
+2023,3,Markov processes,1
+2023,3,Training,19
+2023,3,Affective computing,4
+2023,3,Mental health,1
+2023,3,Linguistics,3
+2023,3,Annotations,4
+2023,3,Social networking (online),4
+2023,3,Ethics,2
+2023,3,Blogs,3
+2023,3,Dictionaries,2
+2023,3,Physiology,7
+2023,3,Induction motors,1
+2023,3,Stress,2
+2023,3,Statistics,2
+2023,3,Task analysis,32
+2023,3,Older adults,2
+2023,3,Sociology,2
+2023,3,Systematics,1
+2023,3,Monitoring,1
+2023,3,Wearable sensors,2
+2023,3,Emotion recognition,22
+2023,3,Biomedical monitoring,1
+2023,3,Sensors,3
+2023,3,Bibliographies,1
+2023,3,Multitasking,4
+2023,3,Gold,4
+2023,3,Gaussian distribution,2
+2023,3,Face recognition,6
+2023,3,Feature extraction,23
+2023,3,Uncertainty,3
+2023,3,Estimation,4
+2023,3,Generators,3
+2023,3,Measurement,2
+2023,3,Trajectory,1
+2023,3,Computer architecture,1
+2023,3,Sentiment analysis,14
+2023,3,Visualization,5
+2023,3,Representation learning,1
+2023,3,Bit error rate,2
+2023,3,Analytical models,6
+2023,3,Optimization,1
+2023,3,Adaptation models,4
+2023,3,Transformers,4
+2023,3,Faces,1
+2023,3,Animals,1
+2023,3,Horses,1
+2023,3,Videos,1
+2023,3,Pain,1
+2023,3,Image representation,1
+2023,3,Semantics,4
+2023,3,Location awareness,1
+2023,3,Brain modeling,7
+2023,3,Electroencephalography,9
+2023,3,Biological system modeling,2
+2023,3,Data models,6
+2023,3,Interviews,1
+2023,3,Medical services,1
+2023,3,Depression,8
+2023,3,Convolutional neural networks,7
+2023,3,Solid modeling,2
+2023,3,State-space methods,1
+2023,3,Matrix decomposition,1
+2023,3,Correlation,1
+2023,3,Mathematical models,1
+2023,3,Covariance matrices,1
+2023,3,Speech recognition,4
+2023,3,Engineering profession,1
+2023,3,Generative adversarial networks,2
+2023,3,Chatbots,1
+2023,3,Virtual assistants,1
+2023,3,Reinforcement learning,3
+2023,3,Welding,1
+2023,3,Target recognition,1
+2023,3,Databases,5
+2023,3,Data visualization,1
+2023,3,Entropy,1
+2023,3,Complexity theory,1
+2023,3,Current measurement,1
+2023,3,History,1
+2023,3,Licenses,2
+2023,3,Image coding,1
+2023,3,Electrodes,3
+2023,3,Deep learning,5
+2023,3,Motion pictures,2
+2023,3,Hurricanes,1
+2023,3,Decision making,2
+2023,3,Psychology,3
+2023,3,Appraisal,1
+2023,3,Hidden Markov models,2
+2023,3,Olfactory,1
+2023,3,Data mining,5
+2023,3,Classification algorithms,1
+2023,3,Pupils,1
+2023,3,Fuses,1
+2023,3,Spatiotemporal phenomena,1
+2023,3,Tensors,1
+2023,3,Testing,1
+2023,3,Neuroscience,1
+2023,3,Pipelines,1
+2023,3,Quaternions,1
+2023,3,Mouth,1
+2023,3,Sports,1
+2023,3,Data collection,1
+2023,3,Games,1
+2023,3,Iron,1
+2023,3,Learning systems,1
+2023,3,Probabilistic logic,1
+2023,3,Training data,1
+2023,3,Accelerometers,1
+2023,3,Robot sensing systems,2
+2023,3,Wearable computers,2
+2023,3,Machine learning,1
+2023,3,Convergence,1
+2023,3,Multimedia Web sites,1
+2023,3,Image databases,1
+2023,3,Oral communication,4
+2023,3,Artificial intelligence,2
+2023,3,Closed box,1
+2023,3,Information systems,1
+2023,3,Neural networks,1
+2023,3,Special issues and sections,1
+2023,3,Metaverse,1
+2023,3,Three-dimensional displays,2
+2023,3,Random forests,1
+2023,3,Long short term memory,1
+2023,3,Encoding,1
+2023,3,Optical flow,1
+2023,3,Convolution,2
+2023,3,Information science,1
+2023,3,Education,1
+2023,3,Software,1
+2023,3,Biomarkers,1
+2023,3,Sparse matrices,1
+2023,3,Transfer learning,1
+2023,3,Stochastic processes,1
+2023,3,Context modeling,4
+2023,3,Taxonomy,1
+2023,3,Kernel,1
+2023,3,Brain,1
+2023,3,Benchmark testing,1
+2023,3,Semisupervised learning,2
+2023,3,Acoustics,1
+2023,3,Logic gates,1
+2023,3,Robustness,1
+2023,3,Shape,1
+2023,3,Australia,1
+2023,3,Robots,1
+2023,3,Dementia,1
+2023,3,Portable computers,1
+2023,3,Space missions,1
+2023,3,Lattices,1
+2023,3,Syntactics,1
+2023,3,Compounds,1
+2023,3,Noise measurement,1
+2023,3,Reliability,1
+2023,3,Knowledge based systems,2
+2023,3,Computer science,1
+2023,3,Commonsense reasoning,1
+2023,3,Knowledge engineering,1
+2023,3,Boosting,1
+2023,3,Decision trees,1
+2023,3,Prediction algorithms,1
+2023,2,Annotations,4
+2023,2,Video recording,1
+2023,2,Feature extraction,31
+2023,2,Visualization,10
+2023,2,Cameras,2
+2023,2,Irrigation,1
+2023,2,Government,1
+2023,2,Physiology,10
+2023,2,Computational modeling,13
+2023,2,Media,2
+2023,2,Brain modeling,7
+2023,2,Biomedical monitoring,3
+2023,2,Emotion recognition,28
+2023,2,Videos,9
+2023,2,Biometrics (access control),1
+2023,2,Biological system modeling,3
+2023,2,Training,12
+2023,2,Tactile sensors,1
+2023,2,Skin,2
+2023,2,IEEE Sections,1
+2023,2,Face recognition,15
+2023,2,Faces,6
+2023,2,Task analysis,21
+2023,2,Convolutional neural networks,7
+2023,2,Muscles,1
+2023,2,Adaptation models,3
+2023,2,Estimation,2
+2023,2,Psychology,3
+2023,2,Databases,11
+2023,2,Transfer learning,3
+2023,2,Speech recognition,8
+2023,2,Acoustics,5
+2023,2,Convolution,3
+2023,2,Electroencephalography,7
+2023,2,Data mining,3
+2023,2,Mood,4
+2023,2,Linguistics,1
+2023,2,Customer satisfaction,1
+2023,2,Diseases,2
+2023,2,Depression,4
+2023,2,Image recognition,3
+2023,2,Head,2
+2023,2,Transformers,1
+2023,2,Sentiment analysis,1
+2023,2,Social networking (online),4
+2023,2,Affective computing,6
+2023,2,Knowledge engineering,1
+2023,2,Correlation,4
+2023,2,Heating systems,2
+2023,2,Heart rate variability,2
+2023,2,Logic gates,1
+2023,2,Accelerometers,1
+2023,2,Monitoring,1
+2023,2,Electrocardiography,2
+2023,2,Neural networks,3
+2023,2,Speaker recognition,1
+2023,2,Systematics,2
+2023,2,Encoding,4
+2023,2,Autism,2
+2023,2,Pediatrics,2
+2023,2,Prediction algorithms,1
+2023,2,Motion pictures,2
+2023,2,Computer vision,2
+2023,2,Mouth,1
+2023,2,Heuristic algorithms,1
+2023,2,Predictive models,3
+2023,2,Natural language processing,1
+2023,2,Regulation,1
+2023,2,Anxiety disorders,1
+2023,2,Neurofeedback,1
+2023,2,Real-time systems,2
+2023,2,Measurement,4
+2023,2,Reliability,3
+2023,2,Analytical models,1
+2023,2,Urban areas,1
+2023,2,Statistics,1
+2023,2,Sociology,1
+2023,2,Context modeling,2
+2023,2,Acoustic distortion,1
+2023,2,Nonlinear distortion,1
+2023,2,Semantics,4
+2023,2,Deep learning,3
+2023,2,Training data,1
+2023,2,Strain,2
+2023,2,Optical network units,1
+2023,2,Euclidean distance,1
+2023,2,Interviews,3
+2023,2,Wearable computers,1
+2023,2,Sensors,1
+2023,2,Support vector machines,4
+2023,2,Data models,4
+2023,2,Gold,2
+2023,2,Appraisal,2
+2023,2,Particle measurements,2
+2023,2,Load modeling,1
+2023,2,Games,3
+2023,2,Atmospheric measurements,2
+2023,2,Fatigue,1
+2023,2,Brakes,1
+2023,2,Switches,1
+2023,2,Planning,1
+2023,2,Heart,1
+2023,2,Distance measurement,1
+2023,2,High performance computing,1
+2023,2,Generative adversarial networks,1
+2023,2,Animation,1
+2023,2,Observers,2
+2023,2,Magnetic heads,1
+2023,2,Learning systems,1
+2023,2,Variable speed drives,1
+2023,2,Behavioral sciences,1
+2023,2,Multisensory integration,1
+2023,2,Pregnancy,1
+2023,2,Reliability engineering,1
+2023,2,Automation,1
+2023,2,Calibration,1
+2023,2,Robots,1
+2023,2,Decision making,1
+2023,2,Drones,1
+2023,2,Computer architecture,2
+2023,2,Mirrors,1
+2023,2,Tools,2
+2023,2,Blogs,1
+2023,2,Rubber,1
+2023,2,Stress,1
+2023,2,Marine vehicles,1
+2023,2,Receivers,1
+2023,2,Testing,1
+2023,2,Dictionaries,2
+2023,2,Histograms,1
+2023,2,Protocols,1
+2023,2,Pathology,1
+2023,2,Guidelines,1
+2023,2,Streaming media,1
+2023,2,Cognition,1
+2023,2,Music,1
+2023,2,Three-dimensional displays,2
+2023,2,Facial features,1
+2023,2,Character recognition,1
+2023,2,Films,1
+2023,2,Electronic mail,1
+2023,2,Hidden Markov models,1
+2023,2,Legged locomotion,1
+2023,2,Frequency locked loops,1
+2023,2,Location awareness,1
+2023,2,Neurons,1
+2023,2,Principal component analysis,1
+2023,2,Australia,1
+2023,2,Animals,1
+2023,2,Intelligent agents,1
+2023,2,Sun,1
+2023,2,Mental health,1
+2023,2,Multimedia Web sites,1
+2023,2,Feeds,1
+2023,1,Convolution,3
+2023,1,Physiology,10
+2023,1,Electrodes,4
+2023,1,Brain modeling,8
+2023,1,Electroencephalography,10
+2023,1,Feature extraction,25
+2023,1,Emotion recognition,19
+2023,1,Sentiment analysis,7
+2023,1,Data mining,3
+2023,1,Task analysis,29
+2023,1,Semantics,7
+2023,1,Context modeling,4
+2023,1,Computer science,2
+2023,1,Monitoring,1
+2023,1,Faces,7
+2023,1,Depression,7
+2023,1,Databases,8
+2023,1,Training,8
+2023,1,Machine learning algorithms,1
+2023,1,Machine learning,5
+2023,1,Magnetic heads,2
+2023,1,Acceleration,1
+2023,1,Particle measurements,4
+2023,1,Games,7
+2023,1,Fetal heart rate,1
+2023,1,Heart rate,2
+2023,1,Atmospheric measurements,3
+2023,1,Linguistics,4
+2023,1,Visualization,9
+2023,1,Speech recognition,5
+2023,1,Automobiles,1
+2023,1,Acoustics,1
+2023,1,Auditory system,1
+2023,1,Modulation,1
+2023,1,Adaptation models,2
+2023,1,Face recognition,9
+2023,1,Image recognition,2
+2023,1,Generative adversarial networks,2
+2023,1,Heart rate variability,2
+2023,1,Current measurement,2
+2023,1,Real-time systems,2
+2023,1,Information systems,1
+2023,1,Pose estimation,1
+2023,1,Annotations,2
+2023,1,Head,1
+2023,1,Recurrent neural networks,2
+2023,1,Social networking (online),4
+2023,1,Blogs,2
+2023,1,Medical services,2
+2023,1,Vehicles,1
+2023,1,Safety,2
+2023,1,Roads,1
+2023,1,Bayes methods,1
+2023,1,Videos,3
+2023,1,Cognition,1
+2023,1,Syntactics,4
+2023,1,Market research,1
+2023,1,Image reconstruction,1
+2023,1,Supervised learning,1
+2023,1,Gold,1
+2023,1,Heat transfer,1
+2023,1,Correlation,5
+2023,1,Transfer learning,1
+2023,1,Estimation,1
+2023,1,Heating systems,1
+2023,1,Image sequences,1
+2023,1,Three-dimensional displays,3
+2023,1,Batteries,1
+2023,1,Computer architecture,6
+2023,1,Psychology,7
+2023,1,Indexes,1
+2023,1,Rhythm,1
+2023,1,Spatiotemporal phenomena,1
+2023,1,Image segmentation,1
+2023,1,Two dimensional displays,1
+2023,1,Hospitals,1
+2023,1,Pediatrics,1
+2023,1,Biomedical imaging,1
+2023,1,Encoding,3
+2023,1,Pain,1
+2023,1,Functional magnetic resonance imaging,1
+2023,1,Transient analysis,1
+2023,1,Shape,1
+2023,1,Signal to noise ratio,1
+2023,1,Protocols,2
+2023,1,Trajectory,2
+2023,1,Manuals,1
+2023,1,Drones,1
+2023,1,Decoding,3
+2023,1,Mental health,2
+2023,1,Mental disorders,1
+2023,1,Text recognition,1
+2023,1,Tools,1
+2023,1,Writing,1
+2023,1,Text mining,1
+2023,1,Computer vision,1
+2023,1,Activity recognition,1
+2023,1,Meteorology,1
+2023,1,Mood,2
+2023,1,Computational modeling,9
+2023,1,Proposals,1
+2023,1,Fuzzy logic,1
+2023,1,Time-frequency analysis,2
+2023,1,Uncertainty,2
+2023,1,Solid modeling,2
+2023,1,Observers,1
+2023,1,Entropy,2
+2023,1,Optical imaging,1
+2023,1,Fuzzy neural networks,1
+2023,1,Neural networks,1
+2023,1,Cancer,1
+2023,1,History,2
+2023,1,Prognostics and health management,1
+2023,1,Affective computing,3
+2023,1,Prediction algorithms,1
+2023,1,Mathematical model,2
+2023,1,Organizations,1
+2023,1,Complexity theory,1
+2023,1,Delays,1
+2023,1,Diseases,1
+2023,1,Legged locomotion,1
+2023,1,Robots,1
+2023,1,Ethics,2
+2023,1,Silicon,1
+2023,1,Affordances,1
+2023,1,Appraisal,1
+2023,1,Systematics,2
+2023,1,Media,1
+2023,1,Licenses,1
+2023,1,Emotional responses,1
+2023,1,Testing,1
+2023,1,Earth Observing System,1
+2023,1,Bit error rate,1
+2023,1,Gallium nitride,1
+2023,1,Stress measurement,1
+2023,1,Mice,1
+2023,1,Stress,4
+2023,1,Instruments,1
+2023,1,Keyboards,1
+2023,1,Target recognition,1
+2023,1,Geometry,1
+2023,1,Analytical models,3
+2023,1,Image edge detection,1
+2023,1,Convolutional neural networks,2
+2023,1,Redundancy,1
+2023,1,Predictive models,6
+2023,1,Data models,2
+2023,1,Sensors,1
+2023,1,Support vector machines,1
+2023,1,Training data,2
+2023,1,Libraries,1
+2023,1,Haptic interfaces,3
+2023,1,Virtual reality,1
+2023,1,Mobile handsets,1
+2023,1,Vibrations,1
+2023,1,Prototypes,1
+2023,1,Animation,1
+2023,1,Interviews,1
+2023,1,Reinforcement learning,1
+2023,1,Computers,1
+2023,1,Intelligent vehicles,1
+2023,1,Vehicle dynamics,1
+2023,1,Multimedia Web sites,1
+2023,1,Fabrics,1
+2023,1,Glass,1
+2023,1,Autism,1
+2023,1,Histograms,1
+2023,1,Cameras,1
+2023,1,Artificial intelligence,1
+2023,1,Special issues and sections,1
+2023,1,Natural language processing,1
+2023,1,Trust computing,1
+2023,1,Human computer interaction,1
+2023,1,Oral communication,1
+2023,1,Twitter,1
+2023,1,Dictionaries,1
+2023,1,Reliability,1
+2023,1,Logistics,1
+2023,1,Hidden Markov models,1
+2023,1,Speech synthesis,1
+2023,1,Stability analysis,1
+2023,1,Biological system modeling,1
+2023,1,Australia,1
+2023,1,Deep learning,2
+2023,1,Electronic mail,1
+2022,4,Convolution,4
+2022,4,Electrodes,1
+2022,4,Brain modeling,8
+2022,4,Electroencephalography,6
+2022,4,Feature extraction,17
+2022,4,Task analysis,17
+2022,4,Depression,3
+2022,4,Emotion recognition,14
+2022,4,Transfer learning,1
+2022,4,Transformers,4
+2022,4,Recurrent neural networks,1
+2022,4,Robustness,3
+2022,4,Training,10
+2022,4,Semantics,6
+2022,4,Context modeling,3
+2022,4,Oral communication,1
+2022,4,Computational modeling,5
+2022,4,Annotations,3
+2022,4,Databases,5
+2022,4,Data models,3
+2022,4,Games,3
+2022,4,Affective computing,2
+2022,4,Visualization,4
+2022,4,Supervised learning,1
+2022,4,Reinforcement learning,1
+2022,4,Behavioral sciences,2
+2022,4,Interviews,1
+2022,4,Acoustics,3
+2022,4,Multitasking,1
+2022,4,Labeling,3
+2022,4,Estimation,2
+2022,4,Speech recognition,4
+2022,4,Face recognition,10
+2022,4,Electronic learning,1
+2022,4,Convolutional neural networks,2
+2022,4,Mood,1
+2022,4,Protocols,3
+2022,4,Software,2
+2022,4,Adaptation models,3
+2022,4,State estimation,1
+2022,4,Physiology,3
+2022,4,Anxiety disorders,1
+2022,4,Regulation,2
+2022,4,Solid modeling,2
+2022,4,Petri nets,1
+2022,4,Virtual environments,2
+2022,4,Autism,1
+2022,4,Pediatrics,1
+2022,4,Data collection,1
+2022,4,Statistics,1
+2022,4,Mel frequency cepstral coefficient,1
+2022,4,Sociology,2
+2022,4,Laboratories,1
+2022,4,Vehicles,1
+2022,4,Lighting,2
+2022,4,Music,1
+2022,4,Automobiles,1
+2022,4,Color,2
+2022,4,Ventilation,1
+2022,4,Optical fiber networks,1
+2022,4,Cognition,3
+2022,4,Optical sensors,1
+2022,4,Optical losses,1
+2022,4,Image motion analysis,1
+2022,4,Faces,3
+2022,4,Computer vision,1
+2022,4,Optical flow,2
+2022,4,Computer architecture,2
+2022,4,Image recognition,1
+2022,4,Head,2
+2022,4,Magnetic heads,1
+2022,4,Skin,2
+2022,4,Testing,1
+2022,4,Generators,2
+2022,4,Shape,1
+2022,4,Detectors,1
+2022,4,Generative adversarial networks,1
+2022,4,Deep learning,5
+2022,4,Decoding,2
+2022,4,Costs,2
+2022,4,Learning systems,1
+2022,4,Sentiment analysis,3
+2022,4,Knowledge engineering,1
+2022,4,Syntactics,1
+2022,4,Support vector machines,3
+2022,4,Correlation,2
+2022,4,White matter,1
+2022,4,Grey matter,1
+2022,4,Linguistics,2
+2022,4,Data mining,2
+2022,4,Pupils,1
+2022,4,Machine learning,1
+2022,4,Videos,3
+2022,4,User experience,1
+2022,4,Modulation,1
+2022,4,Social robots,1
+2022,4,Hidden Markov models,1
+2022,4,Robots,1
+2022,4,Robot sensing systems,1
+2022,4,Older adults,1
+2022,4,Iron,1
+2022,4,Lips,1
+2022,4,Cameras,1
+2022,4,Predictive models,3
+2022,4,Trajectory,1
+2022,4,Manifolds,1
+2022,4,Pain,1
+2022,4,Logic gates,1
+2022,4,Neural networks,1
+2022,4,Stress measurement,1
+2022,4,Heart rate variability,1
+2022,4,Stress,1
+2022,4,Wearable computers,1
+2022,4,Human factors,1
+2022,4,Discrete Fourier transforms,1
+2022,4,Training data,1
+2022,4,Time series analysis,1
+2022,4,Market research,1
+2022,4,Crystals,1
+2022,4,Histograms,1
+2022,4,Classification algorithms,1
+2022,4,Aggregates,1
+2022,4,Uncertainty,1
+2022,4,Neurons,1
+2022,4,Social networking (online),1
+2022,4,Motion pictures,1
+2022,4,Human computer interaction,1
+2022,4,Psychology,1
+2022,3,Face recognition,8
+2022,3,Educational technology,1
+2022,3,Collaborative work,1
+2022,3,Emotion recognition,9
+2022,3,Collaboration,1
+2022,3,Task analysis,11
+2022,3,Leadership,1
+2022,3,Mood,3
+2022,3,Facebook,1
+2022,3,Stress,3
+2022,3,Switches,1
+2022,3,Tools,4
+2022,3,Productivity,1
+2022,3,Spatiotemporal phenomena,1
+2022,3,Histograms,2
+2022,3,Predictive models,4
+2022,3,Measurement,1
+2022,3,Faces,3
+2022,3,Feature extraction,17
+2022,3,Three-dimensional displays,5
+2022,3,Skeleton,1
+2022,3,Games,1
+2022,3,Pain,2
+2022,3,Artificial intelligence,1
+2022,3,Buildings,1
+2022,3,Generative adversarial networks,1
+2022,3,History,1
+2022,3,Visualization,5
+2022,3,TV,1
+2022,3,Gold,2
+2022,3,Face,2
+2022,3,Learning systems,2
+2022,3,Estimation,2
+2022,3,Deep learning,4
+2022,3,Computer science,1
+2022,3,Probabilistic logic,1
+2022,3,Noise measurement,2
+2022,3,Annotations,3
+2022,3,Training,4
+2022,3,Neural networks,4
+2022,3,Color,2
+2022,3,Headphones,1
+2022,3,Media,1
+2022,3,Correlation,2
+2022,3,Head,2
+2022,3,Videos,2
+2022,3,Virtual reality,1
+2022,3,Psychology,7
+2022,3,Convolution,4
+2022,3,Depression,1
+2022,3,Sentiment analysis,2
+2022,3,Analytical models,2
+2022,3,Supervised learning,1
+2022,3,Road transportation,1
+2022,3,Electrodes,2
+2022,3,Frequency-domain analysis,1
+2022,3,Brain modeling,3
+2022,3,Electroencephalography,5
+2022,3,Data models,4
+2022,3,Hidden Markov models,2
+2022,3,Solid modeling,2
+2022,3,Acoustics,2
+2022,3,Animation,1
+2022,3,Time series analysis,1
+2022,3,Data mining,1
+2022,3,Convolutional neural networks,1
+2022,3,Phonetics,1
+2022,3,Pragmatics,1
+2022,3,Taxonomy,1
+2022,3,Semantics,2
+2022,3,Timing,1
+2022,3,Reliability,1
+2022,3,Particle measurements,3
+2022,3,Atmospheric measurements,3
+2022,3,Databases,4
+2022,3,Bonding,1
+2022,3,Affective computing,3
+2022,3,Lighting,2
+2022,3,Training data,1
+2022,3,Stress measurement,1
+2022,3,Monitoring,1
+2022,3,Biomedical monitoring,1
+2022,3,Sensors,1
+2022,3,Data privacy,1
+2022,3,Ethics,1
+2022,3,Guidelines,1
+2022,3,Big Data,1
+2022,3,Medical services,1
+2022,3,Privacy,1
+2022,3,Robustness,1
+2022,3,Shape,2
+2022,3,Physiology,4
+2022,3,Wearable sensors,1
+2022,3,Intelligent sensors,1
+2022,3,Education,2
+2022,3,Machine learning,3
+2022,3,Biological neural networks,1
+2022,3,Biomedical measurement,1
+2022,3,Sensitivity,1
+2022,3,Electronic mail,1
+2022,3,Linguistics,1
+2022,3,Companies,1
+2022,3,Dictionaries,1
+2022,3,Computational modeling,6
+2022,3,Adaptation models,3
+2022,3,Integrated optics,1
+2022,3,Bayes methods,1
+2022,3,Convergence,1
+2022,3,Multi-agent systems,1
+2022,3,Regulation,1
+2022,3,Proposals,1
+2022,3,Decision making,1
+2022,3,Computer architecture,1
+2022,3,Public transportation,1
+2022,3,Motion pictures,1
+2022,3,Neural activity,1
+2022,3,Time-domain analysis,1
+2022,3,Testing,1
+2022,3,Wrist,1
+2022,3,Filtering,1
+2022,3,Electric potential,1
+2022,3,Brain-computer interfaces,1
+2022,3,Public speaking,1
+2022,3,Mice,1
+2022,3,Trajectory,1
+2022,3,Cognition,1
+2022,3,Kinematics,1
+2022,3,Medical treatment,1
+2022,3,Signal processing,1
+2022,3,Encoding,1
+2022,3,Appraisal,1
+2022,3,Facial animation,1
+2022,3,Speech recognition,1
+2022,3,Memory modules,1
+2022,3,Resource management,1
+2022,3,Drugs,1
+2022,3,Performance evaluation,1
+2022,3,Force,1
+2022,3,Robots,1
+2022,3,Actuators,1
+2022,3,Aerospace electronics,1
+2022,3,Skin,1
+2022,3,Electrocardiography,1
+2022,2,Spatiotemporal phenomena,1
+2022,2,Dynamics,1
+2022,2,Histograms,1
+2022,2,Feature extraction,17
+2022,2,Depression,2
+2022,2,Nonhomogeneous media,1
+2022,2,Optical imaging,1
+2022,2,Streaming media,1
+2022,2,Advertising,1
+2022,2,Motion pictures,2
+2022,2,Electroencephalography,6
+2022,2,Brain modeling,6
+2022,2,Emotion recognition,12
+2022,2,Encoding,3
+2022,2,Sentiment analysis,2
+2022,2,Recurrent neural networks,1
+2022,2,Learning systems,1
+2022,2,Syntactics,1
+2022,2,Grammar,1
+2022,2,Deep learning,1
+2022,2,Time-frequency analysis,1
+2022,2,Data models,5
+2022,2,Training data,1
+2022,2,Physiology,3
+2022,2,Synchronization,2
+2022,2,Biological control systems,1
+2022,2,Visualization,8
+2022,2,Virtual reality,1
+2022,2,Heart rate,2
+2022,2,Olfactory,1
+2022,2,Gold,3
+2022,2,Face,6
+2022,2,Tools,2
+2022,2,Temperature measurement,1
+2022,2,Pain,1
+2022,2,Support vector machines,1
+2022,2,Scalp,1
+2022,2,Correlation,4
+2022,2,Psychology,7
+2022,2,Interviews,2
+2022,2,Task analysis,13
+2022,2,Videos,4
+2022,2,Magnetic heads,1
+2022,2,Neural networks,5
+2022,2,Computational modeling,10
+2022,2,Predictive models,5
+2022,2,Machine learning,3
+2022,2,Databases,4
+2022,2,Speech recognition,6
+2022,2,Character recognition,1
+2022,2,Cultural differences,1
+2022,2,Erbium,2
+2022,2,Data mining,4
+2022,2,Manuals,1
+2022,2,Twitter,2
+2022,2,Knowledge engineering,1
+2022,2,Face recognition,5
+2022,2,Training,7
+2022,2,Computer vision,3
+2022,2,Observers,1
+2022,2,Annotations,2
+2022,2,Problem-solving,1
+2022,2,Education,2
+2022,2,Games,5
+2022,2,Robots,2
+2022,2,Distance measurement,1
+2022,2,Clustering algorithms,1
+2022,2,Atmospheric measurements,2
+2022,2,Dementia,1
+2022,2,Mathematical model,2
+2022,2,Particle measurements,1
+2022,2,YouTube,1
+2022,2,Estimation,2
+2022,2,Adaptation models,2
+2022,2,Semantics,3
+2022,2,Stress measurement,1
+2022,2,Time series analysis,3
+2022,2,Standards,1
+2022,2,Stress,2
+2022,2,Smoothing methods,1
+2022,2,Principal component analysis,1
+2022,2,Food products,1
+2022,2,Graphical user interfaces,1
+2022,2,Monitoring,2
+2022,2,Unmanned aerial vehicles,1
+2022,2,Mood,2
+2022,2,Kernel,1
+2022,2,Computer architecture,2
+2022,2,Sun,1
+2022,2,Social networking (online),1
+2022,2,Hidden Markov models,1
+2022,2,Australia,1
+2022,2,Semisupervised learning,1
+2022,2,Acoustics,2
+2022,2,Image segmentation,1
+2022,2,Spectrogram,1
+2022,2,Linguistics,1
+2022,2,Decision making,1
+2022,2,Fuses,1
+2022,2,Reactive power,1
+2022,2,Calibration,1
+2022,2,Hardware,1
+2022,2,Gaze tracking,1
+2022,2,Video recording,1
+2022,2,Cameras,2
+2022,2,Ice,1
+2022,2,Music,1
+2022,2,Performance evaluation,1
+2022,2,Conductors,1
+2022,2,Kinematics,1
+2022,2,Force,1
+2022,2,Biological system modeling,1
+2022,2,Game theory,1
+2022,2,Solid modeling,1
+2022,2,Market research,1
+2022,2,Reservoirs,1
+2022,2,Uncertainty,1
+2022,2,Biomedical monitoring,1
+2022,2,Bayes methods,1
+2022,2,Heart beat,1
+2022,2,Emotional responses,1
+2022,2,Complexity theory,2
+2022,2,Barium,1
+2022,2,Convolutional neural networks,1
+2022,2,Production,1
+2022,2,Sociology,1
+2022,2,Speech processing,1
+2022,2,Generators,1
+2022,2,Generative adversarial networks,1
+2022,2,Gallium nitride,1
+2022,2,Prediction algorithms,1
+2022,2,Prototypes,1
+2022,2,Appraisal,1
+2022,2,Electrodes,1
+2022,2,Biological neural networks,1
+2022,2,Network architecture,1
+2022,2,Facial features,1
+2022,1,Face recognition,7
+2022,1,Image recognition,1
+2022,1,Feature extraction,16
+2022,1,Emotion recognition,4
+2022,1,Computer architecture,2
+2022,1,Convolutional neural networks,1
+2022,1,Motion pictures,1
+2022,1,Benchmark testing,2
+2022,1,YouTube,1
+2022,1,Machine learning,5
+2022,1,Task analysis,15
+2022,1,Videos,4
+2022,1,Market research,1
+2022,1,Face,5
+2022,1,Skin,2
+2022,1,Strain,1
+2022,1,Motion segmentation,1
+2022,1,Physiology,8
+2022,1,Standards,2
+2022,1,Computational modeling,10
+2022,1,Labeling,2
+2022,1,Pain,4
+2022,1,Gold,2
+2022,1,Reliability,2
+2022,1,Encoding,4
+2022,1,Sentiment analysis,3
+2022,1,Information science,1
+2022,1,Vocabulary,1
+2022,1,Twitter,2
+2022,1,Indexes,3
+2022,1,Video sequences,1
+2022,1,Predictive models,3
+2022,1,Recurrent neural networks,1
+2022,1,Delays,1
+2022,1,Training,6
+2022,1,Principal component analysis,2
+2022,1,MIMO communication,1
+2022,1,Eigenvalues and eigenfunctions,1
+2022,1,Estimation,4
+2022,1,Channel estimation,1
+2022,1,Direction-of-arrival estimation,1
+2022,1,Computational complexity,1
+2022,1,Observers,2
+2022,1,Cognition,2
+2022,1,Computer vision,1
+2022,1,Visualization,4
+2022,1,Psychology,4
+2022,1,Support vector machines,4
+2022,1,Pediatrics,1
+2022,1,Protocols,2
+2022,1,Autism,1
+2022,1,Stakeholders,1
+2022,1,Affective computing,8
+2022,1,Conferences,1
+2022,1,Finite element analysis,1
+2022,1,Linguistics,1
+2022,1,Eyebrows,1
+2022,1,Acoustics,3
+2022,1,Electronic mail,1
+2022,1,Analytical models,3
+2022,1,Numerical models,1
+2022,1,Correlation,2
+2022,1,Shape,2
+2022,1,Interrupters,1
+2022,1,Adaptation models,1
+2022,1,Evolutionary computation,2
+2022,1,Taxonomy,1
+2022,1,Mood,1
+2022,1,Tagging,2
+2022,1,Manuals,1
+2022,1,Image segmentation,1
+2022,1,Electroencephalography,7
+2022,1,Band-pass filters,1
+2022,1,Writing,1
+2022,1,Gyroscopes,1
+2022,1,Magnetometers,1
+2022,1,Accelerometers,2
+2022,1,Hardware,1
+2022,1,Legged locomotion,1
+2022,1,Tissue damage,1
+2022,1,Tools,1
+2022,1,Nervous system,1
+2022,1,Speech recognition,1
+2022,1,Speech,1
+2022,1,Time series analysis,1
+2022,1,Annotations,2
+2022,1,Mathematical model,1
+2022,1,Convolution,1
+2022,1,Learning systems,1
+2022,1,Brain modeling,2
+2022,1,Convolutional neural nets,1
+2022,1,Databases,3
+2022,1,Neuroscience,1
+2022,1,Animation,1
+2022,1,Sun,1
+2022,1,Detectors,1
+2022,1,Syntactics,1
+2022,1,Dictionaries,1
+2022,1,Decoding,1
+2022,1,Atmospheric measurements,2
+2022,1,Electrocardiography,1
+2022,1,Deep learning,5
+2022,1,Optimization,1
+2022,1,Machine learning algorithms,2
+2022,1,Planning,1
+2022,1,Synchronization,1
+2022,1,Electric potential,1
+2022,1,Games,1
+2022,1,Real-time systems,1
+2022,1,Statistical analysis,1
+2022,1,Decision trees,1
+2022,1,Probabilistic logic,1
+2022,1,Measurement,1
+2022,1,Information technology,1
+2022,1,Social networking (online),1
+2022,1,Data integrity,1
+2022,1,Heterogeneous networks,1
+2022,1,Wearable sensors,1
+2022,1,Cameras,1
+2022,1,Acceleration,1
+2022,1,Hidden Markov models,2
+2022,1,Fuses,1
+2022,1,Three-dimensional displays,1
+2022,1,Particle measurements,1
+2022,1,Computer science,1
+2022,1,Heart rate variability,1
+2022,1,Current measurement,1
+2022,1,Peripheral nervous system,1
+2022,1,Medical treatment,1
+2022,1,Psychiatry,1
+2022,1,Neural networks,2
+2022,1,Public speaking,1
+2022,1,Kalman filters,1
+2022,1,Fasteners,1
+2022,1,Organizations,1
+2022,1,Hospitals,1
+2022,1,Time-frequency analysis,1
+2022,1,Depression,1
+2021,4,Physiology,2
+2021,4,Complexity theory,1
+2021,4,Monitoring,1
+2021,4,Gaze tracking,1
+2021,4,Neural activity,1
+2021,4,Electroencephalography,2
+2021,4,Product design,1
+2021,4,Systematics,1
+2021,4,Computer applications,1
+2021,4,Protocols,1
+2021,4,Emotion recognition,11
+2021,4,Affective computing,1
+2021,4,Behavioral sciences,2
+2021,4,Schizophrenia,1
+2021,4,Feature extraction,7
+2021,4,Estimation,2
+2021,4,Videos,1
+2021,4,Cameras,2
+2021,4,Facial recognition,1
+2021,4,Training data,6
+2021,4,Gaussian processes,1
+2021,4,Predictive models,1
+2021,4,Delays,1
+2021,4,Acoustic measurements,1
+2021,4,Acoustics,1
+2021,4,Convolutional neural networks,1
+2021,4,Linguistics,1
+2021,4,Computational modeling,2
+2021,4,Pathology,1
+2021,4,Speech recognition,5
+2021,4,Neurological diseases,1
+2021,4,Biomarkers,1
+2021,4,Frequency-domain analysis,1
+2021,4,Discrete wavelet transforms,1
+2021,4,Mutual information,1
+2021,4,Time-domain analysis,1
+2021,4,Data collection,2
+2021,4,Time-frequency analysis,1
+2021,4,Sampling methods,1
+2021,4,Sensors,2
+2021,4,Mobile handsets,1
+2021,4,Smart phones,1
+2021,4,Autism,1
+2021,4,Data mining,2
+2021,4,Kinematics,1
+2021,4,Games,1
+2021,4,Streaming media,2
+2021,4,Media,1
+2021,4,Tagging,1
+2021,4,Multimedia databases,1
+2021,4,Adversarial machine learning,1
+2021,4,Testing,1
+2021,4,Training,1
+2021,4,Generative adversarial networks,2
+2021,4,Data models,3
+2021,4,Speech processing,1
+2021,4,Dynamics,1
+2021,4,Image recognition,2
+2021,4,Visualization,2
+2021,4,Heuristic algorithms,1
+2021,4,Optical imaging,1
+2021,4,Support vector machines,3
+2021,4,Face recognition,3
+2021,4,Databases,1
+2021,4,Brain-computer interfaces,1
+2021,4,Real-time systems,1
+2021,4,Electromagnetic compatibility,1
+2021,4,Mood,1
+2021,4,Motion control,1
+2021,4,Microscopy,1
+2021,4,Depression,1
+2021,4,Hidden Markov models,1
+2021,4,Adaptation models,1
+2021,4,Lips,1
+2021,4,Music,1
+2021,4,Lighting,1
+2021,4,Image color analysis,1
+2021,4,Content analysis,1
+2021,4,Grammar,1
+2021,4,Educational technology,1
+2021,4,Facial features,1
+2021,4,Detectors,1
+2021,4,Computer vision,1
+2021,4,Human computer interaction,1
+2021,4,Heart rate,1
+2021,4,Neural networks,1
+2021,4,Machine learning,2
+2021,4,Deep learning,2
+2021,4,Legged locomotion,1
+2021,4,Three-dimensional displays,1
+2021,4,Motion analysis,1
+2021,4,Taxonomy,1
+2021,4,Market research,1
+2021,4,Human factors,1
+2021,4,Animation,1
+2021,4,Sentiment analysis,1
+2021,4,Analytical models,1
+2021,4,Cognition,1
+2021,4,Context modeling,1
+2021,3,Convolution,1
+2021,3,Feature extraction,6
+2021,3,Emotion recognition,7
+2021,3,Visualization,5
+2021,3,Videos,4
+2021,3,Task analysis,7
+2021,3,Decoding,1
+2021,3,Mood,2
+2021,3,Regulation,1
+2021,3,Tools,1
+2021,3,Particle measurements,2
+2021,3,Software,1
+2021,3,Atmospheric measurements,2
+2021,3,Hidden Markov models,1
+2021,3,Computational modeling,7
+2021,3,Recurrent neural networks,1
+2021,3,Biological system modeling,1
+2021,3,Data models,2
+2021,3,Affective computing,4
+2021,3,Brain modeling,1
+2021,3,Sensors,1
+2021,3,Load modeling,1
+2021,3,Speech recognition,2
+2021,3,Physiology,2
+2021,3,Reliability,2
+2021,3,Databases,2
+2021,3,Electromyography,1
+2021,3,Computer architecture,2
+2021,3,Pain,1
+2021,3,Probabilistic logic,1
+2021,3,Adaptation models,1
+2021,3,Social networking (online),1
+2021,3,Semantics,1
+2021,3,Neural networks,2
+2021,3,Gold,1
+2021,3,Production,1
+2021,3,Face recognition,1
+2021,3,Computer vision,2
+2021,3,Cultural differences,1
+2021,3,Music,1
+2021,3,Predictive models,2
+2021,3,Electrodes,1
+2021,3,Complexity theory,1
+2021,3,Time series analysis,1
+2021,3,Electroencephalography,1
+2021,3,Distance measurement,1
+2021,3,Estimation,1
+2021,3,Machine learning,2
+2021,3,Stress,1
+2021,3,Training,2
+2021,3,Oscillators,1
+2021,3,Blood pressure,1
+2021,3,Artificial intelligence,1
+2021,3,Context modeling,2
+2021,3,Analytical models,2
+2021,3,Computational efficiency,1
+2021,3,Psychology,1
+2021,3,Special issues and sections,1
+2021,3,Autism,2
+2021,3,Pediatrics,1
+2021,3,Tablet computers,1
+2021,3,Monitoring,1
+2021,3,Motion pictures,2
+2021,3,Cameras,1
+2021,3,Knowledge engineering,1
+2021,3,Robustness,1
+2021,3,Support vector machines,1
+2021,3,Surface morphology,1
+2021,3,Surface reconstruction,1
+2021,3,Medical diagnostic imaging,1
+2021,3,Observers,1
+2021,3,Deep learning,1
+2021,3,Robots,2
+2021,3,Electric breakdown,1
+2021,3,Neuroscience,1
+2021,3,Heuristic algorithms,1
+2021,3,Mathematical model,1
+2021,3,Medical treatment,1
+2021,3,Emotional responses,1
+2021,3,Social network services,1
+2021,3,Training data,1
+2021,3,Correlation,1
+2021,2,Programming,2
+2021,2,Computational modeling,10
+2021,2,Intelligent systems,1
+2021,2,Robots,3
+2021,2,Emotion recognition,19
+2021,2,Object recognition,1
+2021,2,Affective computing,6
+2021,2,Probablistic logic,1
+2021,2,Special issues and sections,1
+2021,2,Mood,2
+2021,2,Physiology,3
+2021,2,Pattern recognition,1
+2021,2,Signal processing,1
+2021,2,Databases,2
+2021,2,Brain modeling,4
+2021,2,Electroencephalography,4
+2021,2,Electrocardiography,1
+2021,2,Videos,2
+2021,2,Artificial intelligence,1
+2021,2,Probabilistic logic,2
+2021,2,Object oriented modeling,1
+2021,2,Cognition,3
+2021,2,Psychology,2
+2021,2,Predictive models,3
+2021,2,Monitoring,1
+2021,2,Mathematical model,2
+2021,2,Speech recognition,2
+2021,2,Market research,1
+2021,2,Cognitive systems,1
+2021,2,Stress,1
+2021,2,Cognitive processes,1
+2021,2,Face recognition,6
+2021,2,Computer architecture,3
+2021,2,Robot kinematics,1
+2021,2,Education,1
+2021,2,Reinforcement learning,1
+2021,2,Robot learning,1
+2021,2,Spatiotemporal phenomena,1
+2021,2,Visualization,3
+2021,2,Machine learning,1
+2021,2,Deep learning,2
+2021,2,Data models,3
+2021,2,Sensory aids,1
+2021,2,Haptic interfaces,1
+2021,2,Semantics,1
+2021,2,Numerical analysis,1
+2021,2,Convolution,1
+2021,2,Feature extraction,5
+2021,2,Transfer learning,1
+2021,2,Training data,3
+2021,2,Learning data,1
+2021,2,Spectral analysis,1
+2021,2,Hippocampus,1
+2021,2,Thermal energy,1
+2021,2,Image color analysis,1
+2021,2,Biological control systems,1
+2021,2,Imaging,1
+2021,2,Biofeedback,1
+2021,2,Biomedical monitoring,1
+2021,2,Vehicle driving,1
+2021,2,Vehicle safety,1
+2021,2,Pose estimation,1
+2021,2,Gesture recognition,1
+2021,2,Legged locomotion,1
+2021,2,Informatics,1
+2021,2,Software architecture,1
+2021,2,Intelligent agents,1
+2021,2,Sentiment analysis,1
+2021,2,Performance evaluation,1
+2021,2,Social networking (online),1
+2021,2,Task analysis,2
+2021,2,Analytical models,2
+2021,2,Linguistics,1
+2021,2,Phonetics,1
+2021,2,Probability distribution,1
+2021,2,Gaussian processes,1
+2021,2,Electrodes,1
+2021,2,Sensors,1
+2021,2,Authentication,1
+2021,2,Generative adversarial networks,1
+2021,2,Biological neural networks,2
+2021,2,Neuroscience,2
+2021,2,Man-machine systems,1
+2021,2,Biological system modeling,2
+2021,2,Human-robot interaction,1
+2021,2,Trajectory,1
+2021,2,Behavioral science,1
+2021,2,Synchronization,1
+2021,2,Machine learning algorithms,1
+2021,2,Human computer interaction,1
+2021,1,Labeling,1
+2021,1,Feature extraction,11
+2021,1,Visualization,4
+2021,1,Surveillance,1
+2021,1,Task analysis,10
+2021,1,Semantics,1
+2021,1,Psychology,3
+2021,1,Muscles,1
+2021,1,Pain,1
+2021,1,Correlation,2
+2021,1,Electroencephalography,5
+2021,1,Electrooculography,1
+2021,1,Electromyography,2
+2021,1,Spatiotemporal phenomena,1
+2021,1,Analytical models,3
+2021,1,Recurrent neural networks,1
+2021,1,Face,2
+2021,1,Three-dimensional displays,1
+2021,1,Support vector machines,1
+2021,1,Histograms,1
+2021,1,Estimation,1
+2021,1,Neural networks,1
+2021,1,Social network services,1
+2021,1,Media,1
+2021,1,Internet,1
+2021,1,Games,4
+2021,1,Decoding,1
+2021,1,Autism,1
+2021,1,Standards,1
+2021,1,Pediatrics,1
+2021,1,Tools,2
+2021,1,Motion pictures,3
+2021,1,Encoding,3
+2021,1,Cameras,2
+2021,1,Reliability theory,1
+2021,1,Computational modeling,1
+2021,1,Affective computing,3
+2021,1,Music,2
+2021,1,Sonification,1
+2021,1,Sleep,1
+2021,1,Frequency modulation,2
+2021,1,Multiple signal classification,1
+2021,1,Integrated circuits,1
+2021,1,Emotion recognition,4
+2021,1,Speech recognition,1
+2021,1,Acoustics,2
+2021,1,Measurement,1
+2021,1,Sparse matrices,1
+2021,1,Manifolds,1
+2021,1,Dictionaries,1
+2021,1,Atom optics,1
+2021,1,Optical imaging,1
+2021,1,Streaming media,1
+2021,1,Tagging,2
+2021,1,Real-time systems,1
+2021,1,Multimedia communication,1
+2021,1,Physiology,4
+2021,1,Databases,1
+2021,1,Brain modeling,1
+2021,1,Schedules,1
+2021,1,Stress,2
+2021,1,Training,1
+2021,1,Biological control systems,1
+2021,1,Heart rate,1
+2021,1,Microsoft Windows,1
+2021,1,Crowdsourcing,1
+2021,1,Manuals,2
+2021,1,Sensors,2
+2021,1,Computers,1
+2021,1,Acceleration,1
+2021,1,Biological system modeling,1
+2021,1,Solid modeling,1
+2021,1,Virtual reality,1
+2021,1,Appraisal,2
+2021,1,Recommender systems,1
+2021,1,Data mining,1
+2021,1,Twitter,1
+2021,1,Electronic mail,1
+2021,1,Detectors,1
+2021,1,Bridges,1
+2021,1,Machine learning,1
+2021,1,Ontologies,1
+2021,1,Videos,2
+2021,1,Skin,1
+2021,1,Accelerometers,1
+2021,1,Couplings,1
+2021,1,Atmospheric measurements,1
+2021,1,Monitoring,1
+2021,1,Navigation,1
+2021,1,Biomarkers,1
+2021,1,Statistics,1
+2021,1,Aging,1
+2021,1,Sociology,1
+2020,4,Image segmentation,1
+2020,4,Face recognition,3
+2020,4,Feature extraction,7
+2020,4,Detection algorithms,1
+2020,4,Task analysis,1
+2020,4,Training data,3
+2020,4,Computer architecture,1
+2020,4,Convolutional neural networks,1
+2020,4,Databases,3
+2020,4,Video surveillance,1
+2020,4,Machine learning,1
+2020,4,Heuristic algorithms,1
+2020,4,Cameras,1
+2020,4,Hidden Markov models,1
+2020,4,Adaptation models,2
+2020,4,Protocols,1
+2020,4,Acoustics,2
+2020,4,Speech processing,2
+2020,4,Speech synthesis,1
+2020,4,Accidents,1
+2020,4,Analytical models,1
+2020,4,Computational modeling,3
+2020,4,Thermodynamics,1
+2020,4,Numerical models,1
+2020,4,Emotion recognition,8
+2020,4,Audio databases,1
+2020,4,Information analysis,1
+2020,4,Information retrieval,1
+2020,4,Psychology,1
+2020,4,Probabilistic logic,1
+2020,4,Gold,1
+2020,4,Image recognition,1
+2020,4,Bayes methods,1
+2020,4,Supervised learning,1
+2020,4,Medical treatment,1
+2020,4,Encoding,1
+2020,4,Mutual information,2
+2020,4,Phonetics,1
+2020,4,Speech recognition,1
+2020,4,Gaussian processes,1
+2020,4,Entropy coding,1
+2020,4,Electroencephalography,1
+2020,4,Electrooculography,1
+2020,4,Learning systems,1
+2020,4,Visualization,1
+2020,4,Probability distribution,1
+2020,4,Image analysis,1
+2020,4,Autism,1
+2020,4,Physiology,1
+2020,4,Statistics,1
+2020,4,Electrocardiography,1
+2020,4,Classification,1
+2020,4,Electromyography,1
+2020,4,Behavioral sciences,1
+2020,4,Predictive models,2
+2020,4,Recurrent neural networks,1
+2020,4,Social networking (online),1
+2020,4,Linguistics,1
+2020,4,Anthropomorphism,1
+2020,4,Semiotics,1
+2020,4,Robots,1
+2020,4,Animals,1
+2020,4,Motion analysis,1
+2020,4,Communication symbols,1
+2020,4,Animation,1
+2020,4,Emotional responses,1
+2020,4,Solid modeling,1
+2020,4,Mathematical model,1
+2020,3,Man-machine systems,1
+2020,3,Hidden Markov models,1
+2020,3,Databases,4
+2020,3,Acoustics,1
+2020,3,Context modeling,1
+2020,3,Speech,4
+2020,3,Speech synthesis,1
+2020,3,Computational modeling,2
+2020,3,Adaptation models,1
+2020,3,Face,3
+2020,3,Face recognition,2
+2020,3,Feature extraction,7
+2020,3,Manifolds,1
+2020,3,Physiology,3
+2020,3,Electrodes,1
+2020,3,Brain modeling,2
+2020,3,Electroencephalography,2
+2020,3,Cognition,1
+2020,3,Medical services,1
+2020,3,Artificial neural networks,1
+2020,3,Predictive models,1
+2020,3,Prediction algorithms,1
+2020,3,Switches,1
+2020,3,Learning systems,1
+2020,3,Linear regression,1
+2020,3,Facebook,1
+2020,3,Data collection,1
+2020,3,Robustness,2
+2020,3,User-generated content,1
+2020,3,Psychology,1
+2020,3,Convolution,1
+2020,3,Biological neural networks,1
+2020,3,Emotion recognition,5
+2020,3,Convolutional neural networks,2
+2020,3,Testing,1
+2020,3,Training,3
+2020,3,Speech recognition,1
+2020,3,Photography,1
+2020,3,Image processing,1
+2020,3,Visualization,3
+2020,3,Semantics,1
+2020,3,Quality assessment,1
+2020,3,Medical treatment,2
+2020,3,Stress,1
+2020,3,Biological control systems,1
+2020,3,Task analysis,1
+2020,3,Games,2
+2020,3,Support vector machines,1
+2020,3,Fatigue,1
+2020,3,Bayes methods,1
+2020,3,Pain,1
+2020,3,Computer science,1
+2020,3,Mood,2
+2020,3,Tagging,1
+2020,3,Machine learning,1
+2020,3,Twitter,1
+2020,3,Avatars,1
+2020,3,Lips,1
+2020,3,Mouth,1
+2020,3,Real-time systems,1
+2020,3,Strain,1
+2020,3,Discrete Fourier transforms,1
+2020,3,Dynamics,1
+2020,3,Frequency-domain analysis,1
+2020,3,Legged locomotion,1
+2020,3,Magnetic heads,1
+2020,3,Mental disorders,1
+2020,3,Videos,2
+2020,3,Image recognition,1
+2020,3,Computer architecture,1
+2020,3,Heart rate variability,1
+2020,3,Force,1
+2020,3,Protocols,1
+2020,3,Nonlinear dynamical systems,1
+2020,3,Haptic interfaces,1
+2020,2,Synchronization,1
+2020,2,Computational modeling,3
+2020,2,Particle measurements,1
+2020,2,Mathematical model,1
+2020,2,Psychology,4
+2020,2,Atmospheric measurements,1
+2020,2,Adaptive systems,1
+2020,2,Brain-computer interfaces,1
+2020,2,Electroencephalography,3
+2020,2,Muscles,1
+2020,2,Observers,1
+2020,2,Wearable sensors,1
+2020,2,Pain,1
+2020,2,Music,1
+2020,2,Robot sensing systems,1
+2020,2,Visualization,2
+2020,2,Computers,1
+2020,2,Speech,5
+2020,2,Support vector machines,1
+2020,2,Face,1
+2020,2,Face recognition,2
+2020,2,Facial features,1
+2020,2,Image recognition,1
+2020,2,Feature extraction,6
+2020,2,Mouth,1
+2020,2,Emotion recognition,4
+2020,2,Avatars,1
+2020,2,Cognitive processes,1
+2020,2,Convolution,1
+2020,2,Physiology,2
+2020,2,Brain modeling,2
+2020,2,Biomedical monitoring,1
+2020,2,Sensors,1
+2020,2,Standards,1
+2020,2,Proposals,1
+2020,2,Reliability,1
+2020,2,Semantics,2
+2020,2,Hidden Markov models,1
+2020,2,Digital signal processing,1
+2020,2,Robots,1
+2020,2,Speech synthesis,1
+2020,2,Databases,2
+2020,2,Pathology,1
+2020,2,Mel frequency cepstral coefficient,1
+2020,2,Speech recognition,1
+2020,2,Nose,1
+2020,2,Mood,2
+2020,2,Estimation,1
+2020,2,Cameras,1
+2020,2,Signal processing,1
+2020,2,Predictive models,2
+2020,2,Tools,1
+2020,2,Acoustics,1
+2020,2,Indexes,1
+2020,2,Stress,1
+2020,2,Data models,1
+2020,2,Bayes methods,1
+2020,2,Meteorology,1
+2020,2,Videos,1
+2020,2,Pattern recognition,1
+2020,2,Sentiment analysis,1
+2020,2,Thesauri,1
+2020,2,Crowdsourcing,1
+2020,1,Sentiment analysis,1
+2020,1,Behavioral sciences,1
+2020,1,Social networking (online),1
+2020,1,Natural language processing,1
+2020,1,Supervised learning,1
+2020,1,Machine learning,1
+2020,1,Physiology,5
+2020,1,Heart rate variability,1
+2020,1,Computational modeling,1
+2020,1,Electrocardiography,4
+2020,1,Estimation,2
+2020,1,Sensors,1
+2020,1,Gold,1
+2020,1,Face,2
+2020,1,Databases,3
+2020,1,Shape,2
+2020,1,Videos,3
+2020,1,Acceleration,1
+2020,1,Media,1
+2020,1,Stress,1
+2020,1,Force,1
+2020,1,Kinematics,1
+2020,1,Haptic interfaces,1
+2020,1,Games,2
+2020,1,Speech recognition,3
+2020,1,Gaze tracking,1
+2020,1,Cognition,1
+2020,1,Feature extraction,5
+2020,1,Object recognition,1
+2020,1,Image classification,1
+2020,1,Support vector machines,1
+2020,1,Standards,1
+2020,1,Tools,1
+2020,1,Two dimensional displays,1
+2020,1,Usability,1
+2020,1,Real-time systems,1
+2020,1,Music,2
+2020,1,Emotion recognition,1
+2020,1,Multiple signal classification,1
+2020,1,Algorithm design and analysis,2
+2020,1,Complexity theory,1
+2020,1,Public speaking,1
+2020,1,Biomedical monitoring,1
+2020,1,Heart beat,1
+2020,1,Speech,2
+2020,1,Probabilistic logic,1
+2020,1,Hidden Markov models,1
+2020,1,Neural networks,1
+2020,1,Training,2
+2020,1,Task analysis,1
+2020,1,Training data,1
+2020,1,Noise measurement,1
+2020,1,Distortion,1
+2020,1,Face recognition,1
+2020,1,Image edge detection,1
+2020,1,Encoding,1
+2020,1,Medical treatment,1
+2020,1,Calibration,1
+2020,1,Electroencephalography,2
+2020,1,Psychology,1
+2020,1,Observers,1
+2020,1,Human computer interaction,1
+2020,1,Virtual reality,1
+2020,1,Image recognition,1
+2020,1,Spectrogram,1
+2020,1,Speech processing,1
+2019,4,Face recognition,2
+2019,4,Image recognition,1
+2019,4,Feature extraction,2
+2019,4,Visualization,2
+2019,4,Speech recognition,3
+2019,4,Monitoring,1
+2019,4,Machine learning,1
+2019,4,Image analysis,1
+2019,4,Affective computing,1
+2019,4,Depression,1
+2019,4,Machine learning algorithms,1
+2019,4,Emotion recognition,2
+2019,4,Information retrieval,2
+2019,4,Digital audio broadcasting,1
+2019,4,Speech processing,1
+2019,4,Predictive models,1
+2019,4,Clustering methods,1
+2019,4,Benchmark testing,1
+2019,4,Games,1
+2019,4,Virutal environments,1
+2019,4,Mood,1
+2019,4,Computational modeling,3
+2019,4,Biological system modeling,1
+2019,4,Robots,2
+2019,4,Risk analysis,1
+2019,4,Decision making,1
+2019,4,Decision support systems,1
+2019,4,Avatars,1
+2019,4,Training,1
+2019,4,Planning,1
+2019,4,Videos,1
+2019,4,Social factors,1
+2019,4,Databases,1
+2019,4,Classification algorithms,1
+2019,4,Sensors,1
+2019,4,Microphones,1
+2019,4,Human-robot interaction,1
+2019,4,Magnetic heads,1
+2019,4,Music,1
+2019,4,Pattern recognition,1
+2019,4,Optimization,1
+2019,4,Markov processes,1
+2019,4,Entertainment industry,1
+2019,4,Rhythm,1
+2019,4,Signal processing,1
+2019,4,Public speaking,1
+2019,4,Signal processing algorithms,1
+2019,4,Support vector machines,1
+2019,4,Hidden Markov models,1
+2019,4,Three-dimensional displays,1
+2019,3,Learning (artificial intelligence),1
+2019,3,Face recognition,3
+2019,3,Boltzmann equation,1
+2019,3,Histograms,1
+2019,3,Tensile stress,1
+2019,3,Databases,2
+2019,3,Integrated optics,1
+2019,3,Feature extraction,7
+2019,3,Machine learning,1
+2019,3,Time series analysis,1
+2019,3,Synchronization,1
+2019,3,Legged locomotion,1
+2019,3,Correlation,2
+2019,3,Sensors,1
+2019,3,Data integration,1
+2019,3,Support vector machines,2
+2019,3,Stability analysis,1
+2019,3,Time-frequency analysis,2
+2019,3,Brain modeling,1
+2019,3,Electroencephalography,3
+2019,3,Emotion recognition,2
+2019,3,Production,1
+2019,3,Switches,1
+2019,3,Mel frequency cepstral coefficient,1
+2019,3,Speech recognition,1
+2019,3,Speech processing,1
+2019,3,Speech,1
+2019,3,Computational modeling,2
+2019,3,Noise measurement,1
+2019,3,Gold,1
+2019,3,Face,2
+2019,3,Data models,1
+2019,3,Estimation,1
+2019,3,Neural networks,1
+2019,3,Music,1
+2019,3,Recommender systems,1
+2019,3,Multiple signal classification,2
+2019,3,Encoding,1
+2019,3,Psychology,1
+2019,3,Computer science,1
+2019,3,Mood,1
+2019,3,Matching pursuit algorithms,1
+2019,3,Signal processing algorithms,1
+2019,3,Electrodes,1
+2019,3,Electric potential,1
+2019,3,Human computer interaction,1
+2019,3,Brain,1
+2019,2,Music,1
+2019,2,Crowdsourcing,1
+2019,2,Computational modeling,1
+2019,2,Predictive models,2
+2019,2,Libraries,1
+2019,2,Visualization,3
+2019,2,Games,2
+2019,2,Heart rate variability,1
+2019,2,Stress,2
+2019,2,Training,6
+2019,2,Biological control systems,1
+2019,2,Physiology,1
+2019,2,Testing,3
+2019,2,Tagging,1
+2019,2,Databases,2
+2019,2,Electroencephalography,1
+2019,2,Feature extraction,3
+2019,2,Vegetation,1
+2019,2,Face,1
+2019,2,Three-dimensional displays,2
+2019,2,Videos,2
+2019,2,Principal component analysis,1
+2019,2,Emotion recognition,2
+2019,2,Speech recognition,2
+2019,2,Algorithm design and analysis,1
+2019,2,Speech,2
+2019,2,Statistical analysis,1
+2019,2,Systems engineering and theory,1
+2019,2,Social network services,1
+2019,2,Semantics,2
+2019,2,Internet,1
+2019,2,Sentiment analysis,1
+2019,2,Context,1
+2019,2,Tools,1
+2019,2,Usability,1
+2019,2,Ontologies,1
+2019,2,Product design,1
+2019,2,Labeling,1
+2019,2,Correlation,1
+2019,2,Eyebrows,1
+2019,2,Monitoring,1
+2019,2,Ambient intelligence,1
+2019,2,Biomedical monitoring,1
+2019,2,Employment,1
+2019,2,Temperature sensors,1
+2019,2,Face recognition,2
+2019,2,Robustness,1
+2019,2,Machine learning,1
+2019,2,Neural networks,1
+2019,2,Gold,1
+2019,2,Linear regression,1
+2019,2,Estimation,1
+2019,2,Source separation,1
+2019,2,Bayes methods,1
+2019,2,Encoding,1
+2019,2,Splines (mathematics),1
+2019,2,Convolutional codes,1
+2019,2,Biological neural networks,1
+2019,1,Computational modeling,2
+2019,1,Face,5
+2019,1,Face recognition,4
+2019,1,Databases,4
+2019,1,Magnetic heads,1
+2019,1,Affective computing,1
+2019,1,Training data,1
+2019,1,Training,2
+2019,1,Data models,2
+2019,1,Emotion recognition,3
+2019,1,Speech recognition,1
+2019,1,Acoustics,1
+2019,1,Speech,1
+2019,1,Media,1
+2019,1,FAA,1
+2019,1,Electroencephalography,1
+2019,1,Entropy,1
+2019,1,Psychology,2
+2019,1,Hip,1
+2019,1,Spatiotemporal phenomena,1
+2019,1,Shape,1
+2019,1,Image recognition,1
+2019,1,Feature extraction,3
+2019,1,Probabilistic logic,1
+2019,1,Complexity theory,1
+2019,1,Crowdsourcing,1
+2019,1,Reliability,1
+2019,1,Sentiment analysis,1
+2019,1,Pragmatics,1
+2019,1,Syntactics,1
+2019,1,Twitter,1
+2019,1,Computer architecture,1
+2019,1,Face detection,1
+2019,1,Gesture recognition,1
+2019,1,Computer vision,2
+2019,1,Object detection,1
+2019,1,Benchmark testing,1
+2019,1,Human-robot interaction,1
+2019,1,Signal processing algorithms,1
+2019,1,Special issues and sections,1
+2019,1,Music,1
+2019,1,Lighting,2
+2019,1,Motion pictures,1
+2019,1,Biomedical monitoring,1
+2019,1,Skin,1
+2019,1,Encoding,1
+2019,1,Videos,1
+2019,1,Task analysis,1
+2019,1,Visualization,1
+2019,1,Mel frequency cepstral coefficient,1
+2019,1,Neural networks,1
+2019,1,Vegetation,1
+2019,1,Steady-state,1
+2019,1,Correlation,1
+2019,1,Mathematical model,1
+2018,4,Mood,2
+2018,4,Australia,1
+2018,4,Feature extraction,7
+2018,4,Sensors,1
+2018,4,Magnetic heads,1
+2018,4,Speech,1
+2018,4,Autism,1
+2018,4,Physiology,2
+2018,4,Avatars,1
+2018,4,Face recognition,5
+2018,4,Real-time systems,2
+2018,4,Biomarkers,1
+2018,4,Heart rate variability,1
+2018,4,Observers,1
+2018,4,Stress,1
+2018,4,Electrocardiography,1
+2018,4,Support vector machines,2
+2018,4,Electroencephalography,1
+2018,4,Emotion recognition,6
+2018,4,Films,1
+2018,4,Brain models,1
+2018,4,Labeling,1
+2018,4,Databases,2
+2018,4,Encoding,1
+2018,4,Videos,2
+2018,4,Psychology,2
+2018,4,Training,2
+2018,4,Cameras,1
+2018,4,Histograms,1
+2018,4,Optical computing,1
+2018,4,Optical imaging,1
+2018,4,Streaming media,1
+2018,4,Hidden Markov models,2
+2018,4,Computational modeling,2
+2018,4,Motion pictures,1
+2018,4,Sociology,1
+2018,4,Appraisal,1
+2018,4,Social network services,1
+2018,4,Context,1
+2018,4,Visualization,3
+2018,4,Bridges,1
+2018,4,Clouds,1
+2018,4,Meteorology,1
+2018,4,Human computer interaction,1
+2018,4,Haptic interfaces,1
+2018,4,Speech processing,1
+2018,4,Discrete Fourier transforms,1
+2018,4,Legged locomotion,1
+2018,4,Time-frequency analysis,1
+2018,4,Three-dimensional displays,1
+2018,4,Music,1
+2018,4,Complexity theory,1
+2018,4,Instruments,1
+2018,4,Multiple signal classification,1
+2018,4,Kernel,1
+2018,4,Predictive models,1
+2018,4,Probability distribution,1
+2018,4,Probability density function,1
+2018,4,Recurrent neural networks,1
+2018,4,Heuristic algorithms,1
+2018,4,Affective computing,1
+2018,3,Behavioral sciences,1
+2018,3,Computer vision,2
+2018,3,Emotion recognition,4
+2018,3,Psychology,2
+2018,3,Machine learning,3
+2018,3,Human factors,1
+2018,3,Special issues and sections,1
+2018,3,Convolution,1
+2018,3,Video sequences,1
+2018,3,Computational modeling,1
+2018,3,Visualization,2
+2018,3,Distributed Bragg reflectors,1
+2018,3,Correlation,1
+2018,3,Data analysis,1
+2018,3,Uncertainty,1
+2018,3,Decision making,1
+2018,3,Human computer interaction,1
+2018,3,Skin,1
+2018,3,Face recognition,2
+2018,3,Social network services,2
+2018,3,Collaboration,1
+2018,3,Recommender systems,1
+2018,3,Brain modeling,2
+2018,3,Electroencephalography,1
+2018,3,Erbium,1
+2018,3,Databases,1
+2018,3,Training,1
+2018,3,Computer architecture,1
+2018,3,Hidden Markov models,1
+2018,3,Biological system modeling,1
+2018,3,Feature extraction,2
+2018,3,Blood,1
+2018,3,Temperature sensors,1
+2018,3,Predictive models,1
+2018,3,YouTube,1
+2018,3,Interviews,1
+2018,3,Data visualization,1
+2018,3,Monitoring,1
+2018,3,Wearable sensors,1
+2018,3,Biomedical monitoring,1
+2018,3,Real-time systems,1
+2018,2,Support vector machines,2
+2018,2,Stress measurement,1
+2018,2,Computational modeling,2
+2018,2,Stress,1
+2018,2,Context,5
+2018,2,Sensors,2
+2018,2,Computers,1
+2018,2,Physiology,1
+2018,2,Databases,1
+2018,2,Correlation,1
+2018,2,Emotion recognition,5
+2018,2,Videos,3
+2018,2,Speech recognition,1
+2018,2,Speech processing,1
+2018,2,Feature extraction,5
+2018,2,Interviews,3
+2018,2,Cameras,2
+2018,2,TV,1
+2018,2,Psychology,2
+2018,2,Speech,2
+2018,2,Electroencephalography,1
+2018,2,Decision making,1
+2018,2,Facial muscles,1
+2018,2,Games,1
+2018,2,Electromyography,1
+2018,2,Music,1
+2018,2,Adaptation models,1
+2018,2,Semantics,2
+2018,2,Affective computing,1
+2018,2,Predictive models,1
+2018,2,Face recognition,2
+2018,2,Active appearance model,1
+2018,2,Geometry,1
+2018,2,Three-dimensional displays,1
+2018,2,Two dimensional displays,1
+2018,2,Training,1
+2018,2,Image recognition,1
+2018,2,Visualization,2
+2018,2,Knowledge transfer,1
+2018,2,Robots,1
+2018,2,YouTube,1
+2018,2,Computer vision,1
+2018,2,Head,1
+2018,2,Bridges,1
+2018,2,Real-time systems,1
+2018,2,Facsimile,1
+2018,2,Motion pictures,1
+2018,1,Support vector machines,1
+2018,1,Noise reduction,1
+2018,1,System performance,1
+2018,1,Face recognition,5
+2018,1,Robustness,1
+2018,1,Feature extraction,5
+2018,1,Electromyography,1
+2018,1,Lighting,1
+2018,1,Reliability,1
+2018,1,Training,3
+2018,1,Encoding,1
+2018,1,Video sequences,1
+2018,1,Histograms,1
+2018,1,Visualization,1
+2018,1,Acoustics,1
+2018,1,Buildings,1
+2018,1,Analytical models,2
+2018,1,Computational modeling,3
+2018,1,Monitoring,1
+2018,1,Stress,1
+2018,1,Sensors,1
+2018,1,Smart phones,1
+2018,1,Hidden Markov models,1
+2018,1,Automotive components,1
+2018,1,Particle measurements,1
+2018,1,Virtual reality,1
+2018,1,Skin,1
+2018,1,Heart rate,1
+2018,1,Atmospheric measurements,1
+2018,1,Time series analysis,1
+2018,1,Delays,1
+2018,1,Distortion,1
+2018,1,Data models,2
+2018,1,Image color analysis,1
+2018,1,Testing,1
+2018,1,Facial features,1
+2018,1,Image recognition,1
+2018,1,Observers,1
+2018,1,Labeling,1
+2018,1,Legged locomotion,1
+2018,1,Databases,1
+2018,1,Context,1
+2018,1,Emotion recognition,2
+2018,1,Machine learning,1
+2018,1,Audio-visual systems,1
+2018,1,Principal component analysis,1
+2018,1,Predictive models,1
+2018,1,Media,1
+2018,1,Semantics,1
+2018,1,Affective computing,1
+2018,1,Physiology,1
+2018,1,Autism,1
+2018,1,Complexity theory,1
+2017,4,Sentiment analysis,8
+2017,4,Analytical models,1
+2017,4,Social network services,3
+2017,4,Context awareness,2
+2017,4,Machine learning,1
+2017,4,Computer architecture,1
+2017,4,Support vector machines,1
+2017,4,Computational modeling,3
+2017,4,Data models,1
+2017,4,Text analysis,2
+2017,4,Training data,2
+2017,4,Hidden Markov models,2
+2017,4,Facial features,3
+2017,4,Emotion recognition,8
+2017,4,Speech processing,1
+2017,4,Animation,1
+2017,4,Feature extraction,2
+2017,4,Encoding,2
+2017,4,Semantics,3
+2017,4,Neural networks,2
+2017,4,Unsupervised learning,1
+2017,4,Knowledge based systems,2
+2017,4,Behavioral sciences,2
+2017,4,Face recognition,3
+2017,4,Man machine interfaces,1
+2017,4,Human factors,1
+2017,4,Special issues and sections,2
+2017,4,Muscles,1
+2017,4,Psychology,2
+2017,4,Big Data,1
+2017,4,Crowdsourcing,1
+2017,4,Text mining,1
+2017,4,Affective computing,1
+2017,4,Physiology,1
+2017,4,Vibrations,1
+2017,4,Visualization,1
+2017,4,Haptic interfaces,1
+2017,4,Auditory system,1
+2017,4,Temperature sensors,1
+2017,4,Electrodes,1
+2017,4,Electromyography,1
+2017,4,Three-dimensional displays,1
+2017,4,Auditory systems,1
+2017,4,Working environment noise,1
+2017,3,Face,1
+2017,3,Face recognition,3
+2017,3,Databases,4
+2017,3,Three-dimensional displays,1
+2017,3,Emotion recognition,5
+2017,3,Cameras,1
+2017,3,Affective computing,2
+2017,3,Analytical models,1
+2017,3,Media,1
+2017,3,Noise reduction,1
+2017,3,Numerical models,1
+2017,3,Robustness,2
+2017,3,Feature extraction,4
+2017,3,Semantics,2
+2017,3,Support vector machines,1
+2017,3,Text recognition,1
+2017,3,Pragmatics,1
+2017,3,Speech recognition,1
+2017,3,Speech,2
+2017,3,Kernel,1
+2017,3,Hidden Markov models,1
+2017,3,Dynamics,2
+2017,3,Computational modeling,1
+2017,3,Engines,1
+2017,3,Rendering (computer graphics),1
+2017,3,Footwear,1
+2017,3,Legged locomotion,1
+2017,3,Vibrations,1
+2017,3,Foot,1
+2017,3,Haptic interfaces,1
+2017,3,Image reconstruction,1
+2017,3,Visualization,3
+2017,3,Standards,1
+2017,3,Predictive models,1
+2017,3,Gold,1
+2017,3,Data models,1
+2017,3,Extraterrestrial measurements,1
+2017,3,Temperature measurement,1
+2017,3,Facial muscles,1
+2017,3,Encoding,1
+2017,3,Skin,1
+2017,3,Buildings,1
+2017,3,Observers,2
+2017,3,Context,1
+2017,3,Cognition,1
+2017,3,Psychology,1
+2017,3,Reliability,1
+2017,3,Heating,1
+2017,3,Pain,1
+2017,2,Vehicles,2
+2017,2,Accidents,1
+2017,2,Monitoring,2
+2017,2,Gold,1
+2017,2,Databases,1
+2017,2,Feature extraction,3
+2017,2,Visualization,1
+2017,2,Facebook,1
+2017,2,Image color analysis,1
+2017,2,Media,3
+2017,2,Correlation,1
+2017,2,Internet,1
+2017,2,Affective computing,2
+2017,2,Synchronization,1
+2017,2,Context,2
+2017,2,Pipelines,1
+2017,2,Real-time systems,1
+2017,2,Computer architecture,1
+2017,2,Psychology,1
+2017,2,Analytical models,1
+2017,2,Computational modeling,2
+2017,2,Predictive models,2
+2017,2,Investment,1
+2017,2,Games,1
+2017,2,Mathematical model,1
+2017,2,Testing,1
+2017,2,Face,2
+2017,2,Motion pictures,1
+2017,2,Encoding,1
+2017,2,TV,1
+2017,2,Webcams,1
+2017,2,Market opportunities,1
+2017,2,Computer applications,1
+2017,2,Context awareness,1
+2017,2,Emotion recognition,2
+2017,2,Biomedical monitoring,1
+2017,2,Commercialization,1
+2017,2,Special issues and sections,1
+2017,2,Frequency division multiplexing,1
+2017,2,Tagging,1
+2017,2,Adaptive optics,1
+2017,2,Cameras,1
+2017,2,Strain,1
+2017,2,Optical imaging,1
+2017,2,Autism,1
+2017,2,Physiology,1
+2017,2,Variable speed drives,1
+2017,2,Intelligent systems,1
+2017,2,Training,1
+2017,2,Electroencephalography,1
+2017,2,Music,2
+2017,2,Engines,1
+2017,2,Footwear,1
+2017,2,Production,1
+2017,2,Legged locomotion,1
+2017,2,Support vector machines,1
+2017,2,Repeaters,1
+2017,2,Pediatrics,1
+2017,2,Risk management,1
+2017,2,Interviews,1
+2017,2,Speech,1
+2017,2,Mood,1
+2017,2,Reliability,1
+2017,2,Cultural differences,1
+2017,1,Motion pictures,1
+2017,1,Vibrations,1
+2017,1,Actuators,1
+2017,1,Biomedical monitoring,2
+2017,1,Haptic interfaces,1
+2017,1,Internet,1
+2017,1,Heart rate,1
+2017,1,Observers,1
+2017,1,Computational modeling,2
+2017,1,Predictive models,1
+2017,1,Context,3
+2017,1,Correlation,3
+2017,1,Distance measurement,1
+2017,1,Psychology,2
+2017,1,Support vector machines,2
+2017,1,Speech recognition,2
+2017,1,US Government,1
+2017,1,Training,2
+2017,1,Bayes methods,1
+2017,1,Upper bound,1
+2017,1,Medical treatment,1
+2017,1,Signal processing,1
+2017,1,Prediction algorithms,1
+2017,1,Encoding,1
+2017,1,Acoustics,2
+2017,1,Signal processing algorithms,1
+2017,1,Heart rate variability,1
+2017,1,Feature extraction,4
+2017,1,Writing,1
+2017,1,Sensors,1
+2017,1,Videos,2
+2017,1,Lighting,1
+2017,1,Face,1
+2017,1,Face recognition,1
+2017,1,Databases,2
+2017,1,Emotion recognition,4
+2017,1,Cameras,1
+2017,1,Decoding,1
+2017,1,Video sequences,1
+2017,1,Synchronization,1
+2017,1,Visualization,1
+2017,1,TV,1
+2017,1,Linear programming,1
+2017,1,Speech,3
+2017,1,Standards,1
+2017,1,Testing,1
+2017,1,Cultural differences,1
+2017,1,Physiology,1
+2017,1,Measurement,1
+2017,1,Coherence,1
+2017,1,Human computer interaction,1
+2017,1,Games,1
+2017,1,Multimedia communication,1
+2017,1,Affective computing,1
+2017,1,Computer science,1
+2016,4,Support vector machines,1
+2016,4,Sentiment analysis,1
+2016,4,Crowdsourcing,2
+2016,4,Measurement,1
+2016,4,Frequency modulation,1
+2016,4,Context modeling,2
+2016,4,Speech recognition,3
+2016,4,Signal processing,1
+2016,4,Behavioral sciences,1
+2016,4,Databases,2
+2016,4,Image processing,1
+2016,4,Computer vision,1
+2016,4,Videos,1
+2016,4,Real-time systems,2
+2016,4,Adaptive optics,1
+2016,4,Face recognition,6
+2016,4,Integrated optics,1
+2016,4,Optical computing,1
+2016,4,Feature extraction,4
+2016,4,Optical imaging,1
+2016,4,Surface electromyography,1
+2016,4,Muscles,1
+2016,4,Emotion recognition,3
+2016,4,Pain,1
+2016,4,Video sequences,1
+2016,4,Training,2
+2016,4,Shape analysis,1
+2016,4,Dictionaries,1
+2016,4,Computational modeling,1
+2016,4,Predictive models,1
+2016,4,Robustness,1
+2016,4,Spatio-temporal models,1
+2016,4,Bilinear models,1
+2016,4,Facial features,2
+2016,4,Pediatrics,1
+2016,4,Biochemistry,1
+2016,4,Olfactory,1
+2016,4,Heart rate variability,1
+2016,4,Electrodes,1
+2016,4,Electroencephalography,1
+2016,4,Electrocardiography,1
+2016,4,Multimedia communication,1
+2016,4,Brain models,1
+2016,4,Physiology,1
+2016,4,Biological control systems,1
+2016,4,Biomedical monitoring,1
+2016,4,Particle measurements,1
+2016,4,Atmospheric measurements,1
+2016,4,Virtual reality,1
+2016,4,Games,1
+2016,4,Three-dimensional displays,1
+2016,4,Data models,1
+2016,4,Supervised learning,1
+2016,3,Mobile communication,1
+2016,3,Hidden Markov models,1
+2016,3,Stress,2
+2016,3,Biological system modeling,1
+2016,3,Sensors,3
+2016,3,Medical services,2
+2016,3,Real-time systems,2
+2016,3,Biomedical monitoring,2
+2016,3,Temperature measurement,1
+2016,3,Diseases,1
+2016,3,Circadian rhythm,1
+2016,3,Mood,1
+2016,3,Accelerometers,1
+2016,3,Labeling,1
+2016,3,Context,1
+2016,3,Emotion recognition,3
+2016,3,Acceleration,2
+2016,3,Monitoring,1
+2016,3,Heart,1
+2016,3,Servers,1
+2016,3,Global Positioning System,1
+2016,3,Physiology,1
+2016,3,Psychology,1
+2016,3,Electrocardiography,1
+2016,3,Heart rate,1
+2016,3,Frequency-domain analysis,1
+2016,3,Reliability,1
+2016,3,Legged locomotion,2
+2016,3,Parkinson's disease,1
+2016,3,Feature extraction,2
+2016,3,Kinematics,1
+2016,3,Electronic mail,1
+2016,3,Sensor systems,1
+2016,3,Human factors,1
+2016,3,Motion segmentation,1
+2016,2,Medical treatment,1
+2016,2,Physiology,1
+2016,2,Context,3
+2016,2,Animals,1
+2016,2,Robot sensing systems,1
+2016,2,Haptic interfaces,1
+2016,2,Music,1
+2016,2,Mood,1
+2016,2,Computational modeling,1
+2016,2,Predictive models,1
+2016,2,Biological system modeling,1
+2016,2,Training,2
+2016,2,Semantics,2
+2016,2,Frequency measurement,1
+2016,2,Standards,1
+2016,2,Licenses,1
+2016,2,Mel frequency cepstral coefficient,1
+2016,2,Harmonic analysis,1
+2016,2,Speech,3
+2016,2,Observers,1
+2016,2,Face,1
+2016,2,Reliability,1
+2016,2,Iterative methods,1
+2016,2,Affective computing,1
+2016,2,Media,1
+2016,2,Noise,1
+2016,2,Estimation,1
+2016,2,Twitter,1
+2016,2,Dictionaries,1
+2016,2,Internet,1
+2016,2,Stress,2
+2016,2,Videos,1
+2016,2,Speech recognition,1
+2016,2,Acoustics,1
+2016,2,Modulation,1
+2016,2,Stress measurement,1
+2016,2,Heart rate variability,1
+2016,2,Protocols,1
+2016,2,Biomedical monitoring,1
+2016,2,Mathematical model,1
+2016,1,Observers,1
+2016,1,Stability criteria,1
+2016,1,Thermal stability,1
+2016,1,Psychology,1
+2016,1,Electronic mail,1
+2016,1,Robustness,1
+2016,1,Particle measurements,2
+2016,1,Aerospace electronics,1
+2016,1,Interviews,1
+2016,1,Acoustics,1
+2016,1,Speech,2
+2016,1,Atmospheric measurements,2
+2016,1,Time series analysis,1
+2016,1,Synchronization,1
+2016,1,Games,1
+2016,1,Indexes,1
+2016,1,Image color analysis,1
+2016,1,Media,1
+2016,1,Motion pictures,2
+2016,1,Feature extraction,2
+2016,1,YouTube,1
+2016,1,Videos,2
+2016,1,Films,1
+2016,1,Hidden Markov models,1
+2016,1,Predictive models,1
+2016,1,Correlation,1
+2016,1,Visualization,1
+2016,1,Brain models,1
+2016,1,Mood,1
+2016,1,Sentiment analysis,1
+2016,1,Analytical models,1
+2016,1,Computational modeling,1
+2016,1,Communities,1
+2016,1,Emotion recognition,1
+2016,1,Appraisal,1
+2016,1,Recurrent neural networks,1
+2016,1,Tagging,1
+2016,1,Databases,1
+2016,1,Electroencephalography,1
+2015,4,Trajectory,1
+2015,4,Feature extraction,4
+2015,4,Emotion recognition,7
+2015,4,Audio-visual systems,1
+2015,4,Classification,1
+2015,4,Speech processing,2
+2015,4,Image color analysis,2
+2015,4,Synchronization,1
+2015,4,Noise measurement,1
+2015,4,Social factors,3
+2015,4,Perception,1
+2015,4,Probabilistic logic,1
+2015,4,Sentiment analysis,2
+2015,4,Computational modeling,1
+2015,4,Crowdsourcing,1
+2015,4,Probability distribution,1
+2015,4,Bayes methods,1
+2015,4,Behavioral science,2
+2015,4,Streaming media,1
+2015,4,Motion pictures,1
+2015,4,Electroencephalography,1
+2015,4,Multimedia communication,1
+2015,4,Brain models,1
+2015,4,Statistical analysis,1
+2015,4,Heart rate variability,1
+2015,4,Standards,1
+2015,4,Heart rate measurement,1
+2015,4,Acoustics,1
+2015,4,Content analysis,1
+2015,4,Mel frequency cepstral coefficient,1
+2015,4,Video retrieval,1
+2015,4,Three-dimensional displays,1
+2015,4,Facial features,2
+2015,4,Social intelligence,1
+2015,4,Facial muscles,1
+2015,4,Angular velocity,1
+2015,4,Infants,1
+2015,4,Displacement measurement,1
+2015,4,Human factors,1
+2015,3,Advertising,1
+2015,3,Media,2
+2015,3,Face,1
+2015,3,Data collection,1
+2015,3,Encoding,1
+2015,3,Internet,1
+2015,3,Webcams,1
+2015,3,Research and development,1
+2015,3,Multimedia communication,1
+2015,3,Special issues and sections,1
+2015,3,Support vector machines,1
+2015,3,Social network services,1
+2015,3,Analytical models,2
+2015,3,Computational modeling,4
+2015,3,Correlation,3
+2015,3,Data models,2
+2015,3,Visualization,3
+2015,3,Mood,1
+2015,3,Timbre,1
+2015,3,Frequency modulation,1
+2015,3,Feature extraction,3
+2015,3,Mel frequency cepstral coefficient,1
+2015,3,Physiology,1
+2015,3,Databases,1
+2015,3,Motion pictures,1
+2015,3,Electroencephalography,1
+2015,3,Emotion recognition,2
+2015,3,Electrocardiography,1
+2015,3,Educational institutions,2
+2015,3,Linear programming,1
+2015,3,Multiple signal classification,1
+2015,3,Psychology,1
+2015,3,Rhythm,1
+2015,3,Gaussian distribution,1
+2015,3,Trajectory,1
+2015,3,Sea measurements,1
+2015,3,Testing,1
+2015,3,Context,1
+2015,3,Linear discriminant analysis,1
+2015,3,Semantics,1
+2015,3,Robots,1
+2015,3,Picture archiving and communication systems,1
+2015,3,Ontologies,1
+2015,3,Autism,1
+2015,3,Variable speed drives,1
+2015,3,Communities,1
+2015,3,Blogs,1
+2015,3,Sociology,1
+2015,2,Proposals,1
+2015,2,Context,2
+2015,2,History,1
+2015,2,Visualization,2
+2015,2,Acoustics,3
+2015,2,Speech,1
+2015,2,Time factors,1
+2015,2,Computational modeling,2
+2015,2,Cost accounting,1
+2015,2,Particle measurements,2
+2015,2,Games,3
+2015,2,Educational institutions,1
+2015,2,Indexes,1
+2015,2,Atmospheric measurements,2
+2015,2,Meetings,1
+2015,2,Virtual environments,1
+2015,2,Affective computing,2
+2015,2,Special issues and sections,1
+2015,2,Gold,1
+2015,2,Delays,1
+2015,2,Databases,2
+2015,2,Feature extraction,2
+2015,2,Emotion recognition,2
+2015,2,Mutual information,1
+2015,2,Music,1
+2015,2,Smoothing methods,1
+2015,2,Time series analysis,1
+2015,2,Analytical models,1
+2015,2,Heuristic algorithms,1
+2015,2,Multiple signal classification,1
+2015,2,Kalman filters,1
+2015,2,Avatars,2
+2015,2,Standards,1
+2015,2,Decision making,1
+2015,2,Computers,1
+2015,2,Production,1
+2015,2,Legged locomotion,1
+2015,2,Solids,1
+2015,2,Snow,1
+2015,2,Microphones,1
+2015,2,Mood,1
+2015,2,Videos,2
+2015,2,Observers,1
+2015,2,Face,2
+2015,2,Face recognition,2
+2015,2,Animation,1
+2015,2,Physiology,1
+2015,2,Heart rate variability,1
+2015,2,Stress,1
+2015,2,Sensitivity,1
+2015,2,Skin,1
+2015,2,Hidden Markov models,1
+2015,2,Correlation,1
+2015,2,Facial features,1
+2015,2,Video recording,1
+2015,1,Hidden Markov models,1
+2015,1,Computational modeling,3
+2015,1,Databases,4
+2015,1,Motion pictures,1
+2015,1,Protocols,1
+2015,1,Licenses,1
+2015,1,Feature extraction,3
+2015,1,Face,2
+2015,1,Face recognition,1
+2015,1,Image edge detection,1
+2015,1,Eyebrows,1
+2015,1,Image resolution,1
+2015,1,Nose,1
+2015,1,Music,2
+2015,1,Environmental factors,1
+2015,1,Numerical models,1
+2015,1,Biological system modeling,1
+2015,1,Emotion recognition,2
+2015,1,Mood,1
+2015,1,Context,1
+2015,1,Videos,1
+2015,1,Cameras,1
+2015,1,Mel frequency cepstral coefficient,1
+2015,1,Speech recognition,1
+2015,1,Harmonic analysis,1
+2015,1,Speech,1
+2015,1,Probabilistic logic,1
+2015,1,Predictive models,1
+2015,1,Adaptation models,1
+2015,1,Data models,1
+2014,4,Support vector machines,2
+2014,4,Pattern recognition,1
+2014,4,Shape analysis,1
+2014,4,Image edge detection,1
+2014,4,Feature extraction,3
+2014,4,Computer vision,1
+2014,4,Facial recognition,2
+2014,4,Linguistics,1
+2014,4,Computational modeling,1
+2014,4,Bandwidth,1
+2014,4,Distributed processing,1
+2014,4,Speech coding,1
+2014,4,Speech recognition,1
+2014,4,Hidden Markov models,1
+2014,4,Time-frequency analysis,1
+2014,4,Emotion recognition,3
+2014,4,Optical imaging,1
+2014,4,Music,1
+2014,4,Physiology,2
+2014,4,Stress,2
+2014,4,User interfaces,1
+2014,4,Music information retrieval,1
+2014,4,Transient analysis,1
+2014,4,Temperature measurement,1
+2014,4,Biomedical image processing,1
+2014,4,Hyperspectral imaging,1
+2014,4,Psychology,1
+2014,4,Databases,1
+2014,4,Crowdsourcing,1
+2014,4,Audio-visual systems,1
+2014,4,Advertising,1
+2014,4,Data collection,1
+2014,4,Face recognition,1
+2014,4,Internet,1
+2014,4,Videos,1
+2014,4,Market research,1
+2014,4,Indexes,1
+2014,3,Sentiment analysis,1
+2014,3,Learning systems,1
+2014,3,Education,1
+2014,3,Psychology,5
+2014,3,Special issues and sections,1
+2014,3,Monitoring,1
+2014,3,Sensor systems,1
+2014,3,Context,4
+2014,3,Biomedical monitoring,1
+2014,3,Real-time systems,2
+2014,3,Laboratories,1
+2014,3,Observers,1
+2014,3,Computational modeling,3
+2014,3,Communities,3
+2014,3,Biological system modeling,1
+2014,3,Correlation,1
+2014,3,Lenses,1
+2014,3,Mood,1
+2014,3,Media,1
+2014,3,Process control,1
+2014,3,Blogs,1
+2014,3,Feature extraction,4
+2014,3,Pragmatics,1
+2014,3,Electrodes,2
+2014,3,Time-frequency analysis,1
+2014,3,Electroencephalography,1
+2014,3,Discrete wavelet transforms,1
+2014,3,Emotion recognition,3
+2014,3,Autism,1
+2014,3,Variable speed drives,1
+2014,3,Shape,1
+2014,3,Visualization,1
+2014,3,Joints,1
+2014,3,Signal processing,1
+2014,3,Educational institutions,2
+2014,3,Conferences,1
+2014,3,Predictive models,1
+2014,3,Numerical models,1
+2014,3,Training,2
+2014,3,Data models,1
+2014,3,Affective computing,1
+2014,3,Transforms,1
+2014,3,System-on-chip,1
+2014,3,Accuracy,1
+2014,3,Computers,1
+2014,3,Computer science,1
+2014,3,Hidden Markov models,1
+2014,3,Face,2
+2014,3,Face recognition,3
+2014,3,Three-dimensional displays,1
+2014,3,Manifolds,1
+2014,3,Videos,1
+2014,3,Lighting,1
+2014,3,Dictionaries,1
+2014,3,Muscles,1
+2014,3,Facial muscles,1
+2014,3,Electromyography,1
+2014,2,Observers,2
+2014,2,Materials,2
+2014,2,Tracking,1
+2014,2,Feature extraction,4
+2014,2,Computer vision,1
+2014,2,Education,1
+2014,2,Joints,1
+2014,2,Dynamics,1
+2014,2,History,1
+2014,2,Robot kinematics,1
+2014,2,Pragmatics,1
+2014,2,Educational institutions,2
+2014,2,Robustness,1
+2014,2,Databases,2
+2014,2,Context,1
+2014,2,Accuracy,3
+2014,2,Acoustics,1
+2014,2,Speech,2
+2014,2,Physiology,2
+2014,2,Data acquisition,1
+2014,2,Videos,2
+2014,2,Films,1
+2014,2,Heart rate,1
+2014,2,Face,2
+2014,2,Reliability,1
+2014,2,Protocols,1
+2014,2,Decision making,1
+2014,2,Computers,2
+2014,2,Psychology,2
+2014,2,Atmospheric measurements,1
+2014,2,Gaussian processes,1
+2014,2,Correlation,1
+2014,2,Irrigation,1
+2014,2,Electroencephalography,1
+2014,2,Robot sensing systems,1
+2014,2,Feedback loop,1
+2014,2,Affective computing,1
+2014,2,Games,1
+2014,2,Support vector machines,1
+2014,2,Face recognition,1
+2014,2,Training,1
+2014,2,Radio frequency,1
+2014,2,Natural language processing,1
+2014,2,Cultural differences,1
+2014,2,Electronic mail,1
+2014,2,Appraisal,1
+2014,1,Observers,1
+2014,1,Labeling,1
+2014,1,Tablet computers,1
+2014,1,Reliability,1
+2014,1,Training,2
+2014,1,Games,6
+2014,1,Software,1
+2014,1,Engines,1
+2014,1,Artificial intelligence,2
+2014,1,Computational modeling,3
+2014,1,Cognition,1
+2014,1,Psychology,1
+2014,1,Appraisal,1
+2014,1,Emotion recognition,1
+2014,1,User interfaces,1
+2014,1,Special issues and sections,1
+2014,1,Lead,1
+2014,1,Context,1
+2014,1,Shape,1
+2014,1,Mathematical model,1
+2014,1,Context modeling,1
+2014,1,Machine vision,1
+2014,1,Surface topography,1
+2014,1,Correlation,2
+2014,1,Three-dimensional displays,1
+2014,1,Feature extraction,2
+2014,1,Visualization,1
+2014,1,Visual perception,1
+2014,1,Vectors,1
+2014,1,Testing,1
+2014,1,Face recognition,1
+2014,1,Facial features,1
+2014,1,Head,1
+2014,1,Communities,1
+2014,1,Diseases,1
+2014,1,Educational institutions,1
+2014,1,Crystals,1
+2014,1,Mood,1
+2014,1,Avatars,1
+2014,1,Storage area networks,1
+2014,1,Prototypes,1
+2013,4,Additives,1
+2013,4,Face,1
+2013,4,Context,3
+2013,4,Accuracy,2
+2013,4,Videos,2
+2013,4,Computers,1
+2013,4,Speech,5
+2013,4,Mood,2
+2013,4,Energy states,1
+2013,4,Encoding,2
+2013,4,Attitude control,1
+2013,4,Energy measurement,1
+2013,4,Decision support systems,1
+2013,4,Computational modeling,3
+2013,4,Data analysis,1
+2013,4,Handheld computers,1
+2013,4,Software,1
+2013,4,Appraisal,2
+2013,4,Classification algorithms,1
+2013,4,Machine learning algorithms,1
+2013,4,Semantics,2
+2013,4,Mutual information,1
+2013,4,Labeling,1
+2013,4,Switches,1
+2013,4,Pragmatics,1
+2013,4,Emotion recognition,2
+2013,4,Games,1
+2013,4,Robustness,1
+2013,4,Training,2
+2013,4,Databases,1
+2013,4,Feature extraction,1
+2013,4,Acoustics,1
+2013,4,Physiology,1
+2013,4,Systematics,1
+2013,4,Robots,1
+2013,4,Human computer interaction,1
+2013,4,Modulation,1
+2013,4,Correlation,1
+2013,4,Collaboration,1
+2013,4,Twitter,1
+2013,4,Context modeling,1
+2013,4,Analytical models,1
+2013,4,Hidden Markov models,1
+2013,4,Speech coding,1
+2013,4,Data models,1
+2013,4,Psychology,1
+2013,4,Vectors,1
+2013,4,Face recognition,1
+2013,4,Image recognition,1
+2013,4,Joints,1
+2013,4,Dictionaries,1
+2013,4,Algorithm design and analysis,1
+2013,3,Measurement,2
+2013,3,Context,1
+2013,3,Training,1
+2013,3,Speech recognition,2
+2013,3,Educational institutions,1
+2013,3,Prototypes,1
+2013,3,Speech,2
+2013,3,Vectors,1
+2013,3,Hidden Markov models,1
+2013,3,Computational modeling,2
+2013,3,Emotion recognition,2
+2013,3,Proposals,1
+2013,3,Computer architecture,1
+2013,3,Computers,1
+2013,3,Affective computing,1
+2013,3,Psychology,3
+2013,3,Computer science,1
+2013,3,Physiology,1
+2013,3,Communities,1
+2013,3,Pragmatics,1
+2013,3,Human computer interaction,1
+2013,3,Virtual reality,1
+2013,3,Internet,2
+2013,3,Libraries,1
+2013,3,Databases,2
+2013,3,Accuracy,2
+2013,3,Semantics,1
+2013,3,Software,1
+2013,3,Face recognition,1
+2013,3,Feature extraction,1
+2013,3,Computer vision,1
+2013,3,Aging,1
+2013,2,Streaming media,1
+2013,2,Mirrors,1
+2013,2,Face,2
+2013,2,Face recognition,3
+2013,2,Visualization,1
+2013,2,Speech recognition,1
+2013,2,Physiology,1
+2013,2,Electrodes,1
+2013,2,Computers,1
+2013,2,Games,1
+2013,2,Market research,1
+2013,2,Educational institutions,1
+2013,2,Electromyography,1
+2013,2,Switches,1
+2013,2,Particle measurements,2
+2013,2,Interviews,1
+2013,2,Audio recording,1
+2013,2,Speech,2
+2013,2,Timing,1
+2013,2,Atmospheric measurements,2
+2013,2,Databases,2
+2013,2,Facial features,1
+2013,2,Feature extraction,3
+2013,2,Emotion recognition,1
+2013,2,Mutual information,1
+2013,2,Acoustics,1
+2013,2,Music,1
+2013,2,Time-frequency analysis,1
+2013,2,Electroencephalography,1
+2013,2,Band-pass filters,1
+2013,2,Multiple signal classification,1
+2013,2,Appraisal,2
+2013,2,Hidden Markov models,1
+2013,2,Computational modeling,2
+2013,2,Gold,2
+2013,2,Image recognition,1
+2013,2,Data models,1
+2013,2,Training data,1
+2013,2,Encoding,1
+2013,2,Pain,1
+2013,2,Engines,1
+2013,2,Tagging,1
+2013,2,Natural language processing,1
+2013,2,Manuals,1
+2013,2,Semantics,1
+2013,2,Dictionaries,1
+2013,2,Availability,1
+2013,2,Current measurement,1
+2013,2,Psychology,2
+2013,2,Biomedical monitoring,1
+2013,2,Cameras,1
+2013,2,Heart rate,1
+2013,2,Predictive models,1
+2013,2,Adaptation models,1
+2013,2,Differential equations,1
+2013,2,Mathematical model,1
+2013,1,Face recognition,4
+2013,1,Databases,1
+2013,1,Training,1
+2013,1,Eigenvalues and eigenfunctions,1
+2013,1,Emotion recognition,2
+2013,1,Data models,1
+2013,1,Cultural differences,1
+2013,1,Data visualization,1
+2013,1,Principal component analysis,2
+2013,1,Biological system modeling,2
+2013,1,Machine learning,1
+2013,1,Estimation,1
+2013,1,Manifolds,1
+2013,1,Speech processing,1
+2013,1,Image sequences,1
+2013,1,Labeling,1
+2013,1,Image segmentation,1
+2013,1,Physiology,2
+2013,1,Noise reduction,1
+2013,1,Multiresolution analysis,1
+2013,1,Low pass filters,1
+2013,1,Human computer interaction,1
+2013,1,Kalman filters,1
+2013,1,Receivers,1
+2013,1,Image recognition,1
+2013,1,Encryption,1
+2013,1,Feature extraction,1
+2013,1,Servers,1
+2013,1,Mood,1
+2013,1,Sentiment analysis,2
+2013,1,Predictive models,2
+2013,1,Data mining,1
+2013,1,Algorithm design and analysis,1
+2013,1,Psychology,1
+2013,1,Human factors,1
+2013,1,Motion control,1
+2013,1,Monitoring,1
+2013,1,Wearable computers,1
+2013,1,Biomedical monitoring,1
+2013,1,Sensors,1
+2013,1,Acceleration,1
+2013,1,Heart rate,2
+2013,1,Music,1
+2013,1,Skin conductance levels,1
+2013,1,Temperature sensors,1
+2012,4,Ethics,12
+2012,4,Robots,5
+2012,4,Psychology,2
+2012,4,Behavioral science,2
+2012,4,Human factors,9
+2012,4,Linguistics,1
+2012,4,Training,1
+2012,4,Pragmatics,1
+2012,4,YouTube,1
+2012,4,Speech recognition,3
+2012,4,Acoustics,1
+2012,4,Context awareness,3
+2012,4,Robot sensing systems,1
+2012,4,Business process re-engineering,1
+2012,4,Emotion recognition,5
+2012,4,Senior citizens,1
+2012,4,Computer industry,1
+2012,4,Special issues and sections,1
+2012,4,Prediction algorithms,1
+2012,4,Content management,1
+2012,4,Inference algorithms,1
+2012,4,Collaboration,1
+2012,4,Man machine systems,2
+2012,4,Cognition,1
+2012,4,Advertising,1
+2012,4,Media,1
+2012,4,Face recognition,1
+2012,4,Videos,1
+2012,4,Internet,1
+2012,4,Content awareness,1
+2012,4,Artificial intelligence,1
+2012,4,Computational modeling,1
+2012,4,Process control,1
+2012,4,Computer architecture,1
+2012,4,Physiology,1
+2012,4,Feature extraction,2
+2012,4,Partitioning algorithms,1
+2012,4,Algorithm design and analysis,1
+2012,4,Motion segmentation,1
+2012,4,Entertainment,1
+2012,4,Computer vision,1
+2012,4,Information processing,1
+2012,3,Computational modeling,2
+2012,3,Correlation,2
+2012,3,Robot kinematics,1
+2012,3,Encoding,1
+2012,3,Psychology,3
+2012,3,Speech,4
+2012,3,Physiology,3
+2012,3,Heart rate variability,1
+2012,3,Detectors,2
+2012,3,Biomedical monitoring,1
+2012,3,Electrocardiography,1
+2012,3,Electromyography,2
+2012,3,Avatars,2
+2012,3,Humans,4
+2012,3,Face,3
+2012,3,Filling,1
+2012,3,Cameras,1
+2012,3,Computers,2
+2012,3,Psychoacoustic models,1
+2012,3,Context,3
+2012,3,Noise,1
+2012,3,Glass,1
+2012,3,Acoustics,1
+2012,3,Appraisal,1
+2012,3,Support vector machines,1
+2012,3,Accuracy,1
+2012,3,Robots,1
+2012,3,Kernel,1
+2012,3,Databases,1
+2012,3,Feature extraction,1
+2012,3,Transfer functions,1
+2012,3,Stress measurement,1
+2012,3,Stress,1
+2012,3,Tracking,1
+2012,3,Imaging,1
+2012,3,Synchronization,1
+2012,3,Emotion recognition,1
+2012,3,Biological system modeling,1
+2012,3,Real time systems,2
+2012,3,Visualization,1
+2012,3,Prosthetics,1
+2012,3,Training,1
+2012,3,Electroencephalography,1
+2012,3,Entropy,1
+2012,3,Educational institutions,1
+2012,2,Context,2
+2012,2,Lattices,1
+2012,2,Association rules,1
+2012,2,Semantics,1
+2012,2,Semantic Web,1
+2012,2,Ontologies,1
+2012,2,Real-time systems,1
+2012,2,Humans,4
+2012,2,Emotion recognition,4
+2012,2,Computers,2
+2012,2,Speech recognition,1
+2012,2,Prototypes,2
+2012,2,Speech,1
+2012,2,Support vector machines,1
+2012,2,Protocols,1
+2012,2,Feature extraction,2
+2012,2,Electrocardiography,2
+2012,2,Electromyography,1
+2012,2,Appraisal,1
+2012,2,Muscles,1
+2012,2,Electrodes,1
+2012,2,Fatigue,1
+2012,2,Sensors,2
+2012,2,Mood,1
+2012,2,Mobile communication,1
+2012,2,Social network services,1
+2012,2,Mobile computing,1
+2012,2,Predictive models,2
+2012,2,IEEE Transactions on Affective Computing,1
+2012,2,Correlation,1
+2012,2,Physiology,2
+2012,2,Computational modeling,1
+2012,2,Particle measurements,1
+2012,2,Videos,2
+2012,2,Skin,1
+2012,2,Atmospheric measurements,1
+2012,2,Observers,1
+2012,2,Visualization,1
+2012,2,Acceleration,1
+2012,2,Tagging,1
+2012,2,Motion pictures,1
+2012,2,Electroencephalography,1
+2012,2,Multimedia communication,1
+2012,2,Logic gates,1
+2012,2,Hidden Markov models,1
+2012,2,Viterbi algorithm,1
+2012,2,Recurrent neural networks,1
+2012,2,Context modeling,1
+2012,2,Consumer electronics,1
+2012,2,Special issues and sections,1
+2012,2,Artificial intelligence,1
+2012,2,Materials,1
+2012,2,Motorcycles,1
+2012,2,Software agents,1
+2012,2,Educational institutions,1
+2012,1,Muscles,1
+2012,1,Physiology,2
+2012,1,Heart rate variability,1
+2012,1,Stress,1
+2012,1,Emotion recognition,5
+2012,1,Electrocardiography,1
+2012,1,Humans,4
+2012,1,Tagging,1
+2012,1,Databases,5
+2012,1,Cameras,1
+2012,1,Videos,2
+2012,1,Buildings,1
+2012,1,Face,3
+2012,1,Solids,1
+2012,1,Speech,2
+2012,1,Knowledge based systems,1
+2012,1,Context modeling,1
+2012,1,Computational modeling,2
+2012,1,Context,3
+2012,1,Psychology,1
+2012,1,Appraisal,2
+2012,1,Motion pictures,1
+2012,1,Electroencephalography,1
+2012,1,Visualization,1
+2012,1,Multimedia communication,1
+2012,1,Monitoring,1
+2012,1,Animals,2
+2012,1,Robot kinematics,1
+2012,1,Decision making,1
+2012,1,Signal processing,1
+2012,1,Electronic mail,1
+2012,1,Hidden Markov models,1
+2012,1,Feature extraction,1
+2012,1,Speech recognition,1
+2012,1,Resource management,1
+2012,1,Behavioral sciences,1
+2012,1,Context awareness,1
+2012,1,Speech processing,1
+2012,1,System analysis and design,1
+2012,1,Cultural differences,1
+2012,1,Human factors,1
+2012,1,Special issues and sections,1
+2012,1,Wires,1
+2012,1,IEEE Transactions on Affective Computing,1
+2012,1,Encoding,1
+2012,1,Decoding,1
+2011,4,Face recognition,2
+2011,4,Training,1
+2011,4,Shape analysis,1
+2011,4,Feature extraction,3
+2011,4,Human factors,1
+2011,4,Complexity theory,1
+2011,4,Testing,1
+2011,4,Web pages,1
+2011,4,Electrooculography,1
+2011,4,Behavioral science,1
+2011,4,Web and internet services,1
+2011,4,Psychology,1
+2011,4,Hidden Markov models,1
+2011,4,Emotion recognition,2
+2011,4,Speech recognition,2
+2011,4,Speech processing,2
+2011,4,Acoustics,1
+2011,4,Information analysis,1
+2011,4,Data mining,1
+2011,4,Syntactics,1
+2011,4,Semantics,1
+2011,4,Context modeling,1
+2011,4,Algorithm design and analysis,1
+2011,3,Video equipment,1
+2011,3,Heart rate variability,1
+2011,3,Monitoring,1
+2011,3,Feature extraction,1
+2011,3,Emotion recognition,2
+2011,3,Biomedical monitoring,1
+2011,3,Electrocardiography,1
+2011,3,Games,3
+2011,3,Physiology,1
+2011,3,Quantum cascade lasers,1
+2011,3,Filtering,1
+2011,3,Sensors,1
+2011,3,Semantics,1
+2011,3,Acoustics,1
+2011,3,Speech processing,1
+2011,3,Content distribution networks,1
+2011,3,Computational modeling,1
+2011,3,User interfaces,1
+2011,3,Adaptation model,1
+2011,3,Data models,1
+2011,3,Human computer interaction,1
+2011,3,Behavioral science,1
+2011,3,Hidden Markov models,1
+2011,3,Face recognition,1
+2011,3,Heuristic algorithms,1
+2011,3,Videos,1
+2011,3,Animation,1
+2011,2,Humans,2
+2011,2,Trajectory,1
+2011,2,Feature extraction,4
+2011,2,Visualization,2
+2011,2,Head,1
+2011,2,Emotion recognition,3
+2011,2,Three dimensional displays,1
+2011,2,Behavioral science,1
+2011,2,Real time systems,2
+2011,2,Human factors,1
+2011,2,Special issues and sections,1
+2011,2,Hidden Markov models,1
+2011,2,Sensors,1
+2011,2,Acoustics,1
+2011,2,Gold,1
+2011,2,Face,1
+2011,2,Active appearance model,1
+2011,2,Training,1
+2011,2,Facial features,1
+2011,2,Heuristic algorithms,1
+2011,2,Support vector machines,1
+2011,2,Accuracy,1
+2011,2,Public speaking,1
+2011,2,Speech,1
+2011,1,Muscles,1
+2011,1,Thermal analysis,1
+2011,1,Face recognition,1
+2011,1,Image processing,2
+2011,1,Encoding,1
+2011,1,Customer service,1
+2011,1,Training data,1
+2011,1,Classification algorithms,1
+2011,1,Subspace constraints,1
+2011,1,Decision trees,1
+2011,1,Feature extraction,1
+2011,1,Emotion recognition,1
+2011,1,Probability distribution,1
+2011,1,Semantics,2
+2011,1,Speech recognition,1
+2011,1,Thesauri,1
+2011,1,Pragmatics,1
+2011,1,Mutual information,1
+2011,1,Ontologies,1
+2011,1,Algorithm design and analysis,1
+2011,1,Pattern recognition,1
+2011,1,User interfaces,1
+2011,1,Frequency modulation,1
+2011,1,Classification,1
+2010,2,Image color analysis,1
+2010,2,Electroencephalography,2
+2010,2,Feature extraction,2
+2010,2,Virtual reality,1
+2010,2,Electronic mail,1
+2010,2,Interference,1
+2010,2,Neurons,1
+2010,2,Emotion recognition,4
+2010,2,Brain,1
+2010,2,Speech recognition,2
+2010,2,Databases,1
+2010,2,Acoustics,1
+2010,2,Heart rate variability,1
+2010,2,Particle measurements,1
+2010,2,Auditory system,1
+2010,2,Atmospheric measurements,1
+2010,2,Support vector machines,1
+2010,2,Temperature,1
+2010,2,Galvanizing,1
+2010,2,Patient monitoring,1
+2010,2,Phase detection,1
+2010,2,Heart rate measurement,1
+2010,2,Dementia,1
+2010,2,Skin,1
+2010,2,Computer architecture,1
+2010,2,Heart rate,1
+2010,2,Computational modeling,1
+2010,2,Man machine systems,1
+2010,2,Robots,1
+2010,2,Games,1
+2010,1,Face detection,1
+2010,1,Statistical analysis,1
+2010,1,Humans,2
+2010,1,Biological system modeling,1
+2010,1,Books,1
+2010,1,Design for experiments,1
+2010,1,Application software,1
+2010,1,Frequency,1
+2010,1,Collaboration,1
+2010,1,Biology computing,1
+2010,1,Inference algorithms,1
+2010,1,Psychology,1
+2010,1,Human computer interaction,1
+2010,1,Computational modeling,1
+2010,1,Temperature distribution,2
+2010,1,Stress,2
+2010,1,MOSFET circuits,2
+2010,1,Electrons,2
+2010,1,Degradation,2
+2010,1,High-K gate dielectrics,2
+2010,1,High K dielectric materials,2
+2010,1,Voltage,2
+2010,1,Chemicals,2
+2010,1,Hot carriers,2
+2010,1,Computer displays,1
+2010,1,Hospitals,1
+2010,1,Physics computing,1
+2010,1,Monitoring,1
+2010,1,Face,1
+2010,1,Facial animation,1
+2010,1,Natural languages,1
+2010,1,Medical services,1
+2010,1,Speech,1
