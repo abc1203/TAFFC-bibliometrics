@@ -41,8 +41,8 @@ def prepare_data_for_plot(df, top_keywords):
     # Create a Year-Quarter column for plotting
     filtered_df.loc[:, 'Year_Quarter'] = filtered_df.apply(lambda row: f"{row['Year']}-Q{row['Issue']}", axis=1)
     
-    # Generate all periods from 2015-Q1 to 2024-Q2
-    all_periods = generate_all_periods(2015, 1, 2024, 2)
+    # Generate all periods from 2010-Q1 to 2024-Q2
+    all_periods = generate_all_periods(2010, 1, 2024, 2)
     all_periods_df = pd.DataFrame({'Year_Quarter': all_periods})
     
     # Prepare the complete data for each keyword
@@ -67,7 +67,8 @@ def plot_keyword_trends(df, top_keywords, smoothing_window=3):
     
     colors = [
         'blue', 'orange', 'green', 'red', 'purple', 'brown', 
-        'pink', 'gray', 'olive', 'cyan', 'magenta'
+        'pink', 'gray', 'olive', 'cyan', 'magenta', 'lime', 
+        'teal', 'maroon', 'navy'
     ]
     
     max_ratio, _ = get_yaxis_range(df)
@@ -85,9 +86,9 @@ def plot_keyword_trends(df, top_keywords, smoothing_window=3):
         ), row=1, col=1)
 
     fig.update_layout(
-        title='Top 15 Keyword Trends Over Time (Rolling Avg, Ratio)',
+        title='Top 15 Keyword Trends Over Time by Ratio (Rolling Avg, k = 3)',
         xaxis_title='Year-Quarter',
-        yaxis_title='Ratio',
+        yaxis_title='Ratio (%)',
         legend_title='Keyword',
         xaxis=dict(tickangle=45, showgrid=True, zeroline=False),
         yaxis=dict(showgrid=True, zeroline=False, range=[-0.2, max_ratio]),
@@ -111,7 +112,8 @@ def plot_keyword_trends_log(df, top_keywords, smoothing_window=3):
     
     colors = [
         'blue', 'orange', 'green', 'red', 'purple', 'brown', 
-        'pink', 'gray', 'olive', 'cyan', 'magenta'
+        'pink', 'gray', 'olive', 'cyan', 'magenta', 'lime', 
+        'teal', 'maroon', 'navy'
     ]
     
     _, max_log_ratio = get_yaxis_range(df)
@@ -129,7 +131,7 @@ def plot_keyword_trends_log(df, top_keywords, smoothing_window=3):
         ), row=1, col=1)
 
     fig.update_layout(
-        title='Top 15 Keyword Trends Over Time (Rolling Avg, Log Ratio)',
+        title='Top 15 Keyword Trends Over Time by Ratio (Log-Scale) (Rolling Avg, k = 3)',
         xaxis_title='Year-Quarter',
         yaxis_title='Log(Ratio)',
         legend_title='Keyword',

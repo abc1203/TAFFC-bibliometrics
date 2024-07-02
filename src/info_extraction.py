@@ -16,17 +16,17 @@ def calculate_frequency_by_issue(json_file):
     
     # Count the frequency of each keyword
     keyword_counter = Counter()
-    issue_keyword_count = Counter()
+    issue_count = Counter()
     
     for year, issue, keywords in records:
-        issue_keyword_count[(year, issue)] += len(keywords)
+        issue_count[(year, issue)] += 1
         for keyword in keywords:
             keyword_counter[(year, issue, keyword)] += 1
     
     # Convert the counter to a list of dictionaries with ratio
     frequency_data = []
     for (year, issue, keyword), frequency in keyword_counter.items():
-        total_keywords_in_issue = issue_keyword_count[(year, issue)]
+        total_keywords_in_issue = issue_count[(year, issue)]
         ratio = (frequency / total_keywords_in_issue) * 100
         ratio = round(ratio, 4)
         frequency_data.append({
