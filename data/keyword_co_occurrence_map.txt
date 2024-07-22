@@ -1,0 +1,804 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>
+1	Sentiment analysis	0	0	1	0	0	70
+2	Social networking (online)	0	0	1	0	0	21
+3	Data mining	0	0	1	0	0	32
+4	Blogs	0	0	1	0	0	10
+5	Feature extraction	0	0	1	0	0	347
+6	Deep learning	0	0	1	0	0	36
+7	Convolutional neural networks	0	0	1	0	0	29
+8	Computational modeling	0	0	1	0	0	174
+9	Labeling	0	0	1	0	0	19
+10	Adaptation models	0	0	1	0	0	33
+11	Brain modeling	0	0	1	0	0	65
+12	Electroencephalography	0	0	1	0	0	100
+13	Transfer learning	0	0	1	0	0	11
+14	Emotion recognition	0	0	1	0	0	317
+15	Vehicles	0	0	1	0	0	6
+16	Artificial intelligence	0	0	1	0	0	15
+17	Roads	0	0	1	0	0	2
+18	Signal detection	0	0	1	0	0	1
+19	Automobiles	0	0	1	0	0	3
+20	Psychology	0	0	1	0	0	97
+21	Multitasking	0	0	1	0	0	9
+22	Knowledge engineering	0	0	1	0	0	7
+23	Visualization	0	0	1	0	0	114
+24	Task analysis	0	0	1	0	0	221
+25	Acoustics	0	0	1	0	0	48
+26	Training	0	0	1	0	0	133
+27	Data models	0	0	1	0	0	64
+28	Transformers	0	0	1	0	0	30
+29	Physiology	0	0	1	0	0	113
+30	Annotations	0	0	1	0	0	29
+31	Face recognition	0	0	1	0	0	163
+32	Machine learning	0	0	1	0	0	39
+33	Cameras	0	0	1	0	0	28
+34	Anxiety disorders	0	0	1	0	0	7
+35	Stress	0	0	1	0	0	37
+36	Biomedical monitoring	0	0	1	0	0	28
+37	Human factors	0	0	1	0	0	22
+38	Perturbation methods	0	0	1	0	0	1
+39	Analytical models	0	0	1	0	0	43
+40	Fake news	0	0	1	0	0	1
+41	Semantics	0	0	1	0	0	62
+42	Predictive models	0	0	1	0	0	69
+43	Training data	0	0	1	0	0	29
+44	Bit error rate	0	0	1	0	0	5
+45	Heating systems	0	0	1	0	0	4
+46	Tagging	0	0	1	0	0	13
+47	Syntactics	0	0	1	0	0	15
+48	Pipelines	0	0	1	0	0	4
+49	Hidden Markov models	0	0	1	0	0	40
+50	Gaussian distribution	0	0	1	0	0	4
+51	Decoding	0	0	1	0	0	14
+52	Context modeling	0	0	1	0	0	30
+53	Oral communication	0	0	1	0	0	13
+54	Surveys	0	0	1	0	0	1
+55	Human-robot interaction	0	0	1	0	0	4
+56	Human computer interaction	0	0	1	0	0	15
+57	User experience	0	0	1	0	0	2
+58	Gold	0	0	1	0	0	32
+59	Shape	0	0	1	0	0	14
+60	Three-dimensional displays	0	0	1	0	0	29
+61	Solid modeling	0	0	1	0	0	13
+62	Knowledge graphs	0	0	1	0	0	1
+63	Portable computers	0	0	1	0	0	4
+64	Dynamics	0	0	1	0	0	7
+65	Faces	0	0	1	0	0	30
+66	Generative adversarial networks	0	0	1	0	0	12
+67	Databases	0	0	1	0	0	111
+68	Electrocardiography	0	0	1	0	0	21
+69	Electromyography	0	0	1	0	0	13
+70	Testing	0	0	1	0	0	19
+71	Sensors	0	0	1	0	0	34
+72	Monitoring	0	0	1	0	0	26
+73	Reliability	0	0	1	0	0	24
+74	Motion pictures	0	0	1	0	0	29
+75	Functional magnetic resonance imaging	0	0	1	0	0	2
+76	Whale optimization algorithms	0	0	1	0	0	1
+77	Whales	0	0	1	0	0	1
+78	Pain	0	0	1	0	0	18
+79	Noise measurement	0	0	1	0	0	11
+80	Computer vision	0	0	1	0	0	23
+81	Redundancy	0	0	1	0	0	2
+82	Affective computing	0	0	1	0	0	68
+83	Meetings	0	0	1	0	0	2
+84	Special issues and sections	0	0	1	0	0	20
+85	Regulation	0	0	1	0	0	8
+86	Bayes methods	0	0	1	0	0	12
+87	Metadata	0	0	1	0	0	1
+88	Particle measurements	0	0	1	0	0	31
+89	Atmospheric measurements	0	0	1	0	0	33
+90	Social robots	0	0	1	0	0	3
+91	Muscles	0	0	1	0	0	10
+92	Robots	0	0	1	0	0	28
+93	Videos	0	0	1	0	0	79
+94	Standards	0	0	1	0	0	12
+95	Correlation	0	0	1	0	0	51
+96	Uncertainty	0	0	1	0	0	11
+97	Speech recognition	0	0	1	0	0	80
+98	Self-supervised learning	0	0	1	0	0	1
+99	Lips	0	0	1	0	0	6
+100	Adversarial machine learning	0	0	1	0	0	2
+101	Data visualization	0	0	1	0	0	4
+102	Ethics	0	0	1	0	0	26
+103	Technological innovation	0	0	1	0	0	1
+104	Guidelines	0	0	1	0	0	4
+105	Usability	0	0	1	0	0	3
+106	Wearable devices	0	0	1	0	0	1
+107	Proposals	0	0	1	0	0	6
+108	Manuals	0	0	1	0	0	9
+109	Optical imaging	0	0	1	0	0	9
+110	Gender issues	0	0	1	0	0	1
+111	Europe	0	0	1	0	0	1
+112	Indexes	0	0	1	0	0	9
+113	Cultural differences	0	0	1	0	0	8
+114	Urban areas	0	0	1	0	0	3
+115	Recording	0	0	1	0	0	1
+116	Protocols	0	0	1	0	0	17
+117	Benchmark testing	0	0	1	0	0	6
+118	Robustness	0	0	1	0	0	17
+119	Emotional responses	0	0	1	0	0	5
+120	Independent component analysis	0	0	1	0	0	1
+121	Integrated circuits	0	0	1	0	0	2
+122	Modulation	0	0	1	0	0	5
+123	Functional near-infrared spectroscopy	0	0	1	0	0	1
+124	Crowdsourcing	0	0	1	0	0	10
+125	Media	0	0	1	0	0	22
+126	Representation learning	0	0	1	0	0	2
+127	Interference	0	0	1	0	0	2
+128	Probabilistic logic	0	0	1	0	0	12
+129	Image recognition	0	0	1	0	0	22
+130	Wheels	0	0	1	0	0	3
+131	Image resolution	0	0	1	0	0	2
+132	Industries	0	0	1	0	0	1
+133	Video games	0	0	1	0	0	1
+134	Games	0	0	1	0	0	58
+135	Load modeling	0	0	1	0	0	3
+136	Diseases	0	0	1	0	0	6
+137	Employment	0	0	1	0	0	2
+138	Safety	0	0	1	0	0	3
+139	Resists	0	0	1	0	0	1
+140	Security	0	0	1	0	0	1
+141	Privacy	0	0	1	0	0	3
+142	Simulation	0	0	1	0	0	1
+143	Modeling	0	0	1	0	0	1
+144	Writing	0	0	1	0	0	4
+145	Education	0	0	1	0	0	10
+146	Software	0	0	1	0	0	8
+147	Libraries	0	0	1	0	0	4
+148	Facial muscles	0	0	1	0	0	5
+149	Mood	0	0	1	0	0	41
+150	Art	0	0	1	0	0	1
+151	Surveillance	0	0	1	0	0	2
+152	Convolution	0	0	1	0	0	24
+153	Speech processing	0	0	1	0	0	18
+154	Spectrogram	0	0	1	0	0	3
+155	Depression	0	0	1	0	0	34
+156	Buildings	0	0	1	0	0	6
+157	Touch sensitive screens	0	0	1	0	0	1
+158	Fans	0	0	1	0	0	1
+159	Tensors	0	0	1	0	0	2
+160	Information exchange	0	0	1	0	0	1
+161	Wireless fidelity	0	0	1	0	0	1
+162	Discrete wavelet transforms	0	0	1	0	0	3
+163	Data collection	0	0	1	0	0	10
+164	Support vector machines	0	0	1	0	0	47
+165	Target recognition	0	0	1	0	0	3
+166	Computer architecture	0	0	1	0	0	33
+167	Accidents	0	0	1	0	0	3
+168	Cognition	0	0	1	0	0	19
+169	Heart rate variability	0	0	1	0	0	21
+170	Skin	0	0	1	0	0	20
+171	Observers	0	0	1	0	0	23
+172	Appraisal	0	0	1	0	0	21
+173	Behavioral sciences	0	0	1	0	0	21
+174	Focusing	0	0	1	0	0	1
+175	Market research	0	0	1	0	0	9
+176	Chatbots	0	0	1	0	0	2
+177	COVID-19	0	0	1	0	0	1
+178	Principal component analysis	0	0	1	0	0	9
+179	Pandemics	0	0	1	0	0	1
+180	Electrodes	0	0	1	0	0	23
+181	Navigation	0	0	1	0	0	2
+182	Neural networks	0	0	1	0	0	29
+183	Measurement	0	0	1	0	0	16
+184	Australia	0	0	1	0	0	6
+185	Optimization	0	0	1	0	0	4
+186	Image classification	0	0	1	0	0	2
+187	Fuses	0	0	1	0	0	4
+188	Sensor systems	0	0	1	0	0	3
+189	Smart phones	0	0	1	0	0	3
+190	Statistics	0	0	1	0	0	7
+191	Decision making	0	0	1	0	0	12
+192	Reinforcement learning	0	0	1	0	0	8
+193	Sociology	0	0	1	0	0	10
+194	Autism	0	0	1	0	0	16
+195	Variable speed drives	0	0	1	0	0	5
+196	Pediatrics	0	0	1	0	0	10
+197	Magnetic resonance imaging	0	0	1	0	0	1
+198	Linguistics	0	0	1	0	0	19
+199	Prototypes	0	0	1	0	0	8
+200	Keyboards	0	0	1	0	0	2
+201	Heterogeneous networks	0	0	1	0	0	2
+202	Robot sensing systems	0	0	1	0	0	9
+203	Rescue robots	0	0	1	0	0	1
+204	Electronic mail	0	0	1	0	0	13
+205	Bridges	0	0	1	0	0	4
+206	Aggregates	0	0	1	0	0	2
+207	Transmitters	0	0	1	0	0	1
+208	Control systems	0	0	1	0	0	1
+209	Logic gates	0	0	1	0	0	6
+210	Pupils	0	0	1	0	0	3
+211	Eyelids	0	0	1	0	0	1
+212	Iris recognition	0	0	1	0	0	1
+213	Drives	0	0	1	0	0	1
+214	Bonding	0	0	1	0	0	2
+215	Pattern recognition	0	0	1	0	0	6
+216	IEC	0	0	1	0	0	1
+217	Dogs	0	0	1	0	0	1
+218	Image segmentation	0	0	1	0	0	6
+219	Graph neural networks	0	0	1	0	0	1
+220	Streaming media	0	0	1	0	0	9
+221	Speech synthesis	0	0	1	0	0	5
+222	Hospitals	0	0	1	0	0	4
+223	Interviews	0	0	1	0	0	16
+224	Random forests	0	0	1	0	0	2
+225	Cyberbullying	0	0	1	0	0	1
+226	Systematics	0	0	1	0	0	8
+227	Torso	0	0	1	0	0	1
+228	Rigidity	0	0	1	0	0	1
+229	Motion capture	0	0	1	0	0	1
+230	Animation	0	0	1	0	0	10
+231	Long short term memory	0	0	1	0	0	2
+232	Wearable computers	0	0	1	0	0	6
+233	Stress measurement	0	0	1	0	0	8
+234	Vibrations	0	0	1	0	0	5
+235	Markov processes	0	0	1	0	0	2
+236	Mental health	0	0	1	0	0	4
+237	Dictionaries	0	0	1	0	0	13
+238	Induction motors	0	0	1	0	0	1
+239	Older adults	0	0	1	0	0	3
+240	Wearable sensors	0	0	1	0	0	6
+241	Bibliographies	0	0	1	0	0	1
+242	Estimation	0	0	1	0	0	28
+243	Generators	0	0	1	0	0	6
+244	Trajectory	0	0	1	0	0	9
+245	Animals	0	0	1	0	0	6
+246	Horses	0	0	1	0	0	1
+247	Image representation	0	0	1	0	0	1
+248	Location awareness	0	0	1	0	0	2
+249	Biological system modeling	0	0	1	0	0	21
+250	Medical services	0	0	1	0	0	8
+251	State-space methods	0	0	1	0	0	1
+252	Matrix decomposition	0	0	1	0	0	1
+253	Mathematical models	0	0	1	0	0	1
+254	Covariance matrices	0	0	1	0	0	1
+255	Engineering profession	0	0	1	0	0	1
+256	Virtual assistants	0	0	1	0	0	1
+257	Welding	0	0	1	0	0	1
+258	Entropy	0	0	1	0	0	5
+259	Complexity theory	0	0	1	0	0	11
+260	Current measurement	0	0	1	0	0	5
+261	History	0	0	1	0	0	6
+262	Licenses	0	0	1	0	0	5
+263	Image coding	0	0	1	0	0	1
+264	Hurricanes	0	0	1	0	0	1
+265	Olfactory	0	0	1	0	0	3
+266	Classification algorithms	0	0	1	0	0	5
+267	Spatiotemporal phenomena	0	0	1	0	0	7
+268	Neuroscience	0	0	1	0	0	5
+269	Quaternions	0	0	1	0	0	1
+270	Mouth	0	0	1	0	0	4
+271	Sports	0	0	1	0	0	1
+272	Iron	0	0	1	0	0	2
+273	Learning systems	0	0	1	0	0	10
+274	Accelerometers	0	0	1	0	0	6
+275	Convergence	0	0	1	0	0	2
+276	Multimedia Web sites	0	0	1	0	0	3
+277	Image databases	0	0	1	0	0	1
+278	Closed box	0	0	1	0	0	1
+279	Information systems	0	0	1	0	0	2
+280	Metaverse	0	0	1	0	0	1
+281	Encoding	0	0	1	0	0	38
+282	Optical flow	0	0	1	0	0	3
+283	Information science	0	0	1	0	0	2
+284	Biomarkers	0	0	1	0	0	4
+285	Sparse matrices	0	0	1	0	0	2
+286	Stochastic processes	0	0	1	0	0	1
+287	Taxonomy	0	0	1	0	0	4
+288	Kernel	0	0	1	0	0	5
+289	Brain	0	0	1	0	0	3
+290	Semisupervised learning	0	0	1	0	0	3
+291	Dementia	0	0	1	0	0	3
+292	Space missions	0	0	1	0	0	1
+293	Lattices	0	0	1	0	0	2
+294	Compounds	0	0	1	0	0	1
+295	Knowledge based systems	0	0	1	0	0	5
+296	Computer science	0	0	1	0	0	10
+297	Commonsense reasoning	0	0	1	0	0	1
+298	Boosting	0	0	1	0	0	1
+299	Decision trees	0	0	1	0	0	3
+300	Prediction algorithms	0	0	1	0	0	7
+301	Video recording	0	0	1	0	0	3
+302	Irrigation	0	0	1	0	0	2
+303	Government	0	0	1	0	0	1
+304	Biometrics (access control)	0	0	1	0	0	1
+305	Tactile sensors	0	0	1	0	0	1
+306	IEEE Sections	0	0	1	0	0	1
+307	Customer satisfaction	0	0	1	0	0	1
+308	Head	0	0	1	0	0	10
+309	Speaker recognition	0	0	1	0	0	1
+310	Heuristic algorithms	0	0	1	0	0	8
+311	Natural language processing	0	0	1	0	0	5
+312	Neurofeedback	0	0	1	0	0	1
+313	Real-time systems	0	0	1	0	0	21
+314	Acoustic distortion	0	0	1	0	0	1
+315	Nonlinear distortion	0	0	1	0	0	1
+316	Strain	0	0	1	0	0	5
+317	Optical network units	0	0	1	0	0	1
+318	Euclidean distance	0	0	1	0	0	1
+319	Fatigue	0	0	1	0	0	3
+320	Brakes	0	0	1	0	0	1
+321	Switches	0	0	1	0	0	6
+322	Planning	0	0	1	0	0	3
+323	Heart	0	0	1	0	0	2
+324	Distance measurement	0	0	1	0	0	4
+325	High performance computing	0	0	1	0	0	1
+326	Magnetic heads	0	0	1	0	0	9
+327	Multisensory integration	0	0	1	0	0	1
+328	Pregnancy	0	0	1	0	0	1
+329	Reliability engineering	0	0	1	0	0	1
+330	Automation	0	0	1	0	0	1
+331	Calibration	0	0	1	0	0	3
+332	Drones	0	0	1	0	0	2
+333	Mirrors	0	0	1	0	0	2
+334	Tools	0	0	1	0	0	16
+335	Rubber	0	0	1	0	0	1
+336	Marine vehicles	0	0	1	0	0	1
+337	Receivers	0	0	1	0	0	2
+338	Histograms	0	0	1	0	0	10
+339	Pathology	0	0	1	0	0	3
+340	Music	0	0	1	0	0	25
+341	Facial features	0	0	1	0	0	16
+342	Character recognition	0	0	1	0	0	2
+343	Films	0	0	1	0	0	4
+344	Legged locomotion	0	0	1	0	0	14
+345	Frequency locked loops	0	0	1	0	0	1
+346	Neurons	0	0	1	0	0	3
+347	Intelligent agents	0	0	1	0	0	2
+348	Sun	0	0	1	0	0	3
+349	Feeds	0	0	1	0	0	1
+350	Machine learning algorithms	0	0	1	0	0	6
+351	Acceleration	0	0	1	0	0	8
+352	Fetal heart rate	0	0	1	0	0	1
+353	Heart rate	0	0	1	0	0	14
+354	Auditory system	0	0	1	0	0	3
+355	Pose estimation	0	0	1	0	0	2
+356	Recurrent neural networks	0	0	1	0	0	11
+357	Image reconstruction	0	0	1	0	0	2
+358	Supervised learning	0	0	1	0	0	6
+359	Heat transfer	0	0	1	0	0	1
+360	Image sequences	0	0	1	0	0	2
+361	Batteries	0	0	1	0	0	1
+362	Rhythm	0	0	1	0	0	3
+363	Two dimensional displays	0	0	1	0	0	3
+364	Biomedical imaging	0	0	1	0	0	1
+365	Transient analysis	0	0	1	0	0	2
+366	Signal to noise ratio	0	0	1	0	0	1
+367	Mental disorders	0	0	1	0	0	2
+368	Text recognition	0	0	1	0	0	2
+369	Text mining	0	0	1	0	0	2
+370	Activity recognition	0	0	1	0	0	1
+371	Meteorology	0	0	1	0	0	3
+372	Fuzzy logic	0	0	1	0	0	1
+373	Time-frequency analysis	0	0	1	0	0	11
+374	Fuzzy neural networks	0	0	1	0	0	1
+375	Cancer	0	0	1	0	0	1
+376	Prognostics and health management	0	0	1	0	0	1
+377	Mathematical model	0	0	1	0	0	15
+378	Organizations	0	0	1	0	0	2
+379	Delays	0	0	1	0	0	5
+380	Silicon	0	0	1	0	0	1
+381	Affordances	0	0	1	0	0	1
+382	Earth Observing System	0	0	1	0	0	1
+383	Gallium nitride	0	0	1	0	0	2
+384	Mice	0	0	1	0	0	2
+385	Instruments	0	0	1	0	0	2
+386	Geometry	0	0	1	0	0	2
+387	Image edge detection	0	0	1	0	0	4
+388	Haptic interfaces	0	0	1	0	0	11
+389	Virtual reality	0	0	1	0	0	9
+390	Mobile handsets	0	0	1	0	0	2
+391	Computers	0	0	1	0	0	15
+392	Intelligent vehicles	0	0	1	0	0	1
+393	Vehicle dynamics	0	0	1	0	0	1
+394	Fabrics	0	0	1	0	0	1
+395	Glass	0	0	1	0	0	2
+396	Trust computing	0	0	1	0	0	1
+397	Twitter	0	0	1	0	0	10
+398	Logistics	0	0	1	0	0	1
+399	Stability analysis	0	0	1	0	0	2
+400	Electronic learning	0	0	1	0	0	1
+401	State estimation	0	0	1	0	0	1
+402	Petri nets	0	0	1	0	0	1
+403	Virtual environments	0	0	1	0	0	3
+404	Mel frequency cepstral coefficient	0	0	1	0	0	8
+405	Laboratories	0	0	1	0	0	2
+406	Lighting	0	0	1	0	0	10
+407	Color	0	0	1	0	0	4
+408	Ventilation	0	0	1	0	0	1
+409	Optical fiber networks	0	0	1	0	0	1
+410	Optical sensors	0	0	1	0	0	1
+411	Optical losses	0	0	1	0	0	1
+412	Image motion analysis	0	0	1	0	0	1
+413	Detectors	0	0	1	0	0	6
+414	Costs	0	0	1	0	0	2
+415	White matter	0	0	1	0	0	1
+416	Grey matter	0	0	1	0	0	1
+417	Manifolds	0	0	1	0	0	5
+418	Discrete Fourier transforms	0	0	1	0	0	3
+419	Time series analysis	0	0	1	0	0	11
+420	Crystals	0	0	1	0	0	2
+421	Educational technology	0	0	1	0	0	2
+422	Collaborative work	0	0	1	0	0	1
+423	Collaboration	0	0	1	0	0	5
+424	Leadership	0	0	1	0	0	1
+425	Facebook	0	0	1	0	0	3
+426	Productivity	0	0	1	0	0	1
+427	Skeleton	0	0	1	0	0	1
+428	TV	0	0	1	0	0	4
+429	Face	0	0	1	0	0	54
+430	Headphones	0	0	1	0	0	1
+431	Road transportation	0	0	1	0	0	1
+432	Frequency-domain analysis	0	0	1	0	0	4
+433	Phonetics	0	0	1	0	0	3
+434	Pragmatics	0	0	1	0	0	9
+435	Timing	0	0	1	0	0	2
+436	Data privacy	0	0	1	0	0	1
+437	Big Data	0	0	1	0	0	2
+438	Intelligent sensors	0	0	1	0	0	1
+439	Biological neural networks	0	0	1	0	0	6
+440	Biomedical measurement	0	0	1	0	0	1
+441	Sensitivity	0	0	1	0	0	2
+442	Companies	0	0	1	0	0	1
+443	Integrated optics	0	0	1	0	0	3
+444	Multi-agent systems	0	0	1	0	0	1
+445	Public transportation	0	0	1	0	0	1
+446	Neural activity	0	0	1	0	0	2
+447	Time-domain analysis	0	0	1	0	0	2
+448	Wrist	0	0	1	0	0	1
+449	Filtering	0	0	1	0	0	2
+450	Electric potential	0	0	1	0	0	3
+451	Brain-computer interfaces	0	0	1	0	0	3
+452	Public speaking	0	0	1	0	0	5
+453	Kinematics	0	0	1	0	0	5
+454	Medical treatment	0	0	1	0	0	9
+455	Signal processing	0	0	1	0	0	8
+456	Facial animation	0	0	1	0	0	2
+457	Memory modules	0	0	1	0	0	1
+458	Resource management	0	0	1	0	0	2
+459	Drugs	0	0	1	0	0	1
+460	Performance evaluation	0	0	1	0	0	3
+461	Force	0	0	1	0	0	4
+462	Actuators	0	0	1	0	0	2
+463	Aerospace electronics	0	0	1	0	0	2
+464	Nonhomogeneous media	0	0	1	0	0	1
+465	Advertising	0	0	1	0	0	4
+466	Grammar	0	0	1	0	0	2
+467	Synchronization	0	0	1	0	0	11
+468	Biological control systems	0	0	1	0	0	6
+469	Temperature measurement	0	0	1	0	0	4
+470	Scalp	0	0	1	0	0	1
+471	Erbium	0	0	1	0	0	3
+472	Problem-solving	0	0	1	0	0	1
+473	Clustering algorithms	0	0	1	0	0	1
+474	YouTube	0	0	1	0	0	6
+475	Smoothing methods	0	0	1	0	0	2
+476	Food products	0	0	1	0	0	1
+477	Graphical user interfaces	0	0	1	0	0	1
+478	Unmanned aerial vehicles	0	0	1	0	0	1
+479	Reactive power	0	0	1	0	0	1
+480	Hardware	0	0	1	0	0	2
+481	Gaze tracking	0	0	1	0	0	3
+482	Ice	0	0	1	0	0	1
+483	Conductors	0	0	1	0	0	1
+484	Game theory	0	0	1	0	0	1
+485	Reservoirs	0	0	1	0	0	1
+486	Heart beat	0	0	1	0	0	2
+487	Barium	0	0	1	0	0	1
+488	Production	0	0	1	0	0	5
+489	Network architecture	0	0	1	0	0	1
+490	Motion segmentation	0	0	1	0	0	3
+491	Vocabulary	0	0	1	0	0	1
+492	Video sequences	0	0	1	0	0	5
+493	MIMO communication	0	0	1	0	0	1
+494	Eigenvalues and eigenfunctions	0	0	1	0	0	2
+495	Channel estimation	0	0	1	0	0	1
+496	Direction-of-arrival estimation	0	0	1	0	0	1
+497	Computational complexity	0	0	1	0	0	1
+498	Stakeholders	0	0	1	0	0	1
+499	Conferences	0	0	1	0	0	2
+500	Finite element analysis	0	0	1	0	0	1
+501	Eyebrows	0	0	1	0	0	3
+502	Numerical models	0	0	1	0	0	5
+503	Interrupters	0	0	1	0	0	1
+504	Evolutionary computation	0	0	1	0	0	2
+505	Band-pass filters	0	0	1	0	0	2
+506	Gyroscopes	0	0	1	0	0	1
+507	Magnetometers	0	0	1	0	0	1
+508	Tissue damage	0	0	1	0	0	1
+509	Nervous system	0	0	1	0	0	1
+510	Speech	0	0	1	0	0	52
+511	Convolutional neural nets	0	0	1	0	0	1
+512	Statistical analysis	0	0	1	0	0	4
+513	Information technology	0	0	1	0	0	1
+514	Data integrity	0	0	1	0	0	1
+515	Peripheral nervous system	0	0	1	0	0	1
+516	Psychiatry	0	0	1	0	0	1
+517	Kalman filters	0	0	1	0	0	3
+518	Fasteners	0	0	1	0	0	1
+519	Product design	0	0	1	0	0	2
+520	Computer applications	0	0	1	0	0	2
+521	Schizophrenia	0	0	1	0	0	1
+522	Facial recognition	0	0	1	0	0	3
+523	Gaussian processes	0	0	1	0	0	4
+524	Acoustic measurements	0	0	1	0	0	1
+525	Neurological diseases	0	0	1	0	0	1
+526	Mutual information	0	0	1	0	0	7
+527	Sampling methods	0	0	1	0	0	1
+528	Multimedia databases	0	0	1	0	0	1
+529	Electromagnetic compatibility	0	0	1	0	0	1
+530	Motion control	0	0	1	0	0	2
+531	Microscopy	0	0	1	0	0	1
+532	Image color analysis	0	0	1	0	0	8
+533	Content analysis	0	0	1	0	0	2
+534	Motion analysis	0	0	1	0	0	2
+535	Oscillators	0	0	1	0	0	1
+536	Blood pressure	0	0	1	0	0	1
+537	Computational efficiency	0	0	1	0	0	1
+538	Tablet computers	0	0	1	0	0	2
+539	Surface morphology	0	0	1	0	0	1
+540	Surface reconstruction	0	0	1	0	0	1
+541	Medical diagnostic imaging	0	0	1	0	0	1
+542	Electric breakdown	0	0	1	0	0	1
+543	Social network services	0	0	1	0	0	11
+544	Programming	0	0	1	0	0	2
+545	Intelligent systems	0	0	1	0	0	2
+546	Object recognition	0	0	1	0	0	2
+547	Probablistic logic	0	0	1	0	0	1
+548	Object oriented modeling	0	0	1	0	0	1
+549	Cognitive systems	0	0	1	0	0	1
+550	Cognitive processes	0	0	1	0	0	2
+551	Robot kinematics	0	0	1	0	0	4
+552	Robot learning	0	0	1	0	0	1
+553	Sensory aids	0	0	1	0	0	1
+554	Numerical analysis	0	0	1	0	0	1
+555	Learning data	0	0	1	0	0	1
+556	Spectral analysis	0	0	1	0	0	1
+557	Hippocampus	0	0	1	0	0	1
+558	Thermal energy	0	0	1	0	0	1
+559	Imaging	0	0	1	0	0	2
+560	Biofeedback	0	0	1	0	0	1
+561	Vehicle driving	0	0	1	0	0	1
+562	Vehicle safety	0	0	1	0	0	1
+563	Gesture recognition	0	0	1	0	0	2
+564	Informatics	0	0	1	0	0	1
+565	Software architecture	0	0	1	0	0	1
+566	Probability distribution	0	0	1	0	0	5
+567	Authentication	0	0	1	0	0	1
+568	Man-machine systems	0	0	1	0	0	2
+569	Behavioral science	0	0	1	0	0	8
+570	Electrooculography	0	0	1	0	0	3
+571	Internet	0	0	1	0	0	10
+572	Reliability theory	0	0	1	0	0	1
+573	Sonification	0	0	1	0	0	1
+574	Sleep	0	0	1	0	0	1
+575	Frequency modulation	0	0	1	0	0	5
+576	Multiple signal classification	0	0	1	0	0	8
+577	Atom optics	0	0	1	0	0	1
+578	Multimedia communication	0	0	1	0	0	7
+579	Schedules	0	0	1	0	0	1
+580	Microsoft Windows	0	0	1	0	0	1
+581	Recommender systems	0	0	1	0	0	3
+582	Ontologies	0	0	1	0	0	5
+583	Couplings	0	0	1	0	0	1
+584	Aging	0	0	1	0	0	2
+585	Detection algorithms	0	0	1	0	0	1
+586	Video surveillance	0	0	1	0	0	1
+587	Thermodynamics	0	0	1	0	0	1
+588	Audio databases	0	0	1	0	0	1
+589	Information analysis	0	0	1	0	0	2
+590	Information retrieval	0	0	1	0	0	3
+591	Entropy coding	0	0	1	0	0	1
+592	Image analysis	0	0	1	0	0	2
+593	Classification	0	0	1	0	0	3
+594	Anthropomorphism	0	0	1	0	0	1
+595	Semiotics	0	0	1	0	0	1
+596	Communication symbols	0	0	1	0	0	1
+597	Artificial neural networks	0	0	1	0	0	1
+598	Linear regression	0	0	1	0	0	2
+599	User-generated content	0	0	1	0	0	1
+600	Photography	0	0	1	0	0	1
+601	Image processing	0	0	1	0	0	4
+602	Quality assessment	0	0	1	0	0	1
+603	Avatars	0	0	1	0	0	9
+604	Nonlinear dynamical systems	0	0	1	0	0	1
+605	Adaptive systems	0	0	1	0	0	1
+606	Digital signal processing	0	0	1	0	0	1
+607	Nose	0	0	1	0	0	2
+608	Thesauri	0	0	1	0	0	2
+609	Algorithm design and analysis	0	0	1	0	0	8
+610	Distortion	0	0	1	0	0	2
+611	Digital audio broadcasting	0	0	1	0	0	1
+612	Clustering methods	0	0	1	0	0	1
+613	Virutal environments	0	0	1	0	0	1
+614	Risk analysis	0	0	1	0	0	1
+615	Decision support systems	0	0	1	0	0	2
+616	Social factors	0	0	1	0	0	4
+617	Microphones	0	0	1	0	0	2
+618	Entertainment industry	0	0	1	0	0	1
+619	Signal processing algorithms	0	0	1	0	0	4
+620	Learning (artificial intelligence)	0	0	1	0	0	1
+621	Boltzmann equation	0	0	1	0	0	1
+622	Tensile stress	0	0	1	0	0	1
+623	Data integration	0	0	1	0	0	1
+624	Matching pursuit algorithms	0	0	1	0	0	1
+625	Vegetation	0	0	1	0	0	2
+626	Systems engineering and theory	0	0	1	0	0	1
+627	Context	0	0	1	0	0	40
+628	Ambient intelligence	0	0	1	0	0	1
+629	Temperature sensors	0	0	1	0	0	4
+630	Source separation	0	0	1	0	0	1
+631	Splines (mathematics)	0	0	1	0	0	1
+632	Convolutional codes	0	0	1	0	0	1
+633	FAA	0	0	1	0	0	1
+634	Hip	0	0	1	0	0	1
+635	Face detection	0	0	1	0	0	2
+636	Object detection	0	0	1	0	0	1
+637	Steady-state	0	0	1	0	0	1
+638	Brain models	0	0	1	0	0	4
+639	Optical computing	0	0	1	0	0	2
+640	Clouds	0	0	1	0	0	1
+641	Probability density function	0	0	1	0	0	1
+642	Distributed Bragg reflectors	0	0	1	0	0	1
+643	Data analysis	0	0	1	0	0	2
+644	Blood	0	0	1	0	0	1
+645	Active appearance model	0	0	1	0	0	2
+646	Knowledge transfer	0	0	1	0	0	1
+647	Facsimile	0	0	1	0	0	1
+648	Noise reduction	0	0	1	0	0	3
+649	System performance	0	0	1	0	0	1
+650	Automotive components	0	0	1	0	0	1
+651	Audio-visual systems	0	0	1	0	0	3
+652	Context awareness	0	0	1	0	0	7
+653	Text analysis	0	0	1	0	0	2
+654	Unsupervised learning	0	0	1	0	0	1
+655	Man machine interfaces	0	0	1	0	0	1
+656	Auditory systems	0	0	1	0	0	1
+657	Working environment noise	0	0	1	0	0	1
+658	Engines	0	0	1	0	0	4
+659	Rendering (computer graphics)	0	0	1	0	0	1
+660	Footwear	0	0	1	0	0	2
+661	Foot	0	0	1	0	0	1
+662	Extraterrestrial measurements	0	0	1	0	0	1
+663	Heating	0	0	1	0	0	1
+664	Investment	0	0	1	0	0	1
+665	Webcams	0	0	1	0	0	2
+666	Market opportunities	0	0	1	0	0	1
+667	Commercialization	0	0	1	0	0	1
+668	Frequency division multiplexing	0	0	1	0	0	1
+669	Adaptive optics	0	0	1	0	0	2
+670	Repeaters	0	0	1	0	0	1
+671	Risk management	0	0	1	0	0	1
+672	US Government	0	0	1	0	0	1
+673	Upper bound	0	0	1	0	0	1
+674	Linear programming	0	0	1	0	0	2
+675	Coherence	0	0	1	0	0	1
+676	Surface electromyography	0	0	1	0	0	1
+677	Shape analysis	0	0	1	0	0	3
+678	Spatio-temporal models	0	0	1	0	0	1
+679	Bilinear models	0	0	1	0	0	1
+680	Biochemistry	0	0	1	0	0	1
+681	Mobile communication	0	0	1	0	0	2
+682	Circadian rhythm	0	0	1	0	0	1
+683	Servers	0	0	1	0	0	2
+684	Global Positioning System	0	0	1	0	0	1
+685	Parkinson's disease	0	0	1	0	0	1
+686	Frequency measurement	0	0	1	0	0	1
+687	Harmonic analysis	0	0	1	0	0	2
+688	Iterative methods	0	0	1	0	0	1
+689	Noise	0	0	1	0	0	2
+690	Stability criteria	0	0	1	0	0	1
+691	Thermal stability	0	0	1	0	0	1
+692	Communities	0	0	1	0	0	7
+693	Perception	0	0	1	0	0	1
+694	Heart rate measurement	0	0	1	0	0	2
+695	Video retrieval	0	0	1	0	0	1
+696	Social intelligence	0	0	1	0	0	1
+697	Angular velocity	0	0	1	0	0	1
+698	Infants	0	0	1	0	0	1
+699	Displacement measurement	0	0	1	0	0	1
+700	Research and development	0	0	1	0	0	1
+701	Timbre	0	0	1	0	0	1
+702	Educational institutions	0	0	1	0	0	12
+703	Sea measurements	0	0	1	0	0	1
+704	Linear discriminant analysis	0	0	1	0	0	1
+705	Picture archiving and communication systems	0	0	1	0	0	1
+706	Time factors	0	0	1	0	0	1
+707	Cost accounting	0	0	1	0	0	1
+708	Solids	0	0	1	0	0	2
+709	Snow	0	0	1	0	0	1
+710	Environmental factors	0	0	1	0	0	1
+711	Bandwidth	0	0	1	0	0	1
+712	Distributed processing	0	0	1	0	0	1
+713	Speech coding	0	0	1	0	0	2
+714	User interfaces	0	0	1	0	0	4
+715	Music information retrieval	0	0	1	0	0	1
+716	Biomedical image processing	0	0	1	0	0	1
+717	Hyperspectral imaging	0	0	1	0	0	1
+718	Lenses	0	0	1	0	0	1
+719	Process control	0	0	1	0	0	2
+720	Joints	0	0	1	0	0	3
+721	Transforms	0	0	1	0	0	1
+722	System-on-chip	0	0	1	0	0	1
+723	Accuracy	0	0	1	0	0	10
+724	Materials	0	0	1	0	0	3
+725	Tracking	0	0	1	0	0	2
+726	Data acquisition	0	0	1	0	0	1
+727	Feedback loop	0	0	1	0	0	1
+728	Radio frequency	0	0	1	0	0	1
+729	Lead	0	0	1	0	0	1
+730	Machine vision	0	0	1	0	0	1
+731	Surface topography	0	0	1	0	0	1
+732	Visual perception	0	0	1	0	0	1
+733	Vectors	0	0	1	0	0	3
+734	Storage area networks	0	0	1	0	0	1
+735	Additives	0	0	1	0	0	1
+736	Energy states	0	0	1	0	0	1
+737	Attitude control	0	0	1	0	0	1
+738	Energy measurement	0	0	1	0	0	1
+739	Handheld computers	0	0	1	0	0	1
+740	Audio recording	0	0	1	0	0	1
+741	Availability	0	0	1	0	0	1
+742	Differential equations	0	0	1	0	0	1
+743	Multiresolution analysis	0	0	1	0	0	1
+744	Low pass filters	0	0	1	0	0	1
+745	Encryption	0	0	1	0	0	1
+746	Skin conductance levels	0	0	1	0	0	1
+747	Business process re-engineering	0	0	1	0	0	1
+748	Senior citizens	0	0	1	0	0	1
+749	Computer industry	0	0	1	0	0	1
+750	Content management	0	0	1	0	0	1
+751	Inference algorithms	0	0	1	0	0	2
+752	Man machine systems	0	0	1	0	0	3
+753	Content awareness	0	0	1	0	0	1
+754	Partitioning algorithms	0	0	1	0	0	1
+755	Entertainment	0	0	1	0	0	1
+756	Information processing	0	0	1	0	0	1
+757	Humans	0	0	1	0	0	16
+758	Filling	0	0	1	0	0	1
+759	Psychoacoustic models	0	0	1	0	0	1
+760	Transfer functions	0	0	1	0	0	1
+761	Real time systems	0	0	1	0	0	4
+762	Prosthetics	0	0	1	0	0	1
+763	Association rules	0	0	1	0	0	1
+764	Semantic Web	0	0	1	0	0	1
+765	Mobile computing	0	0	1	0	0	1
+766	IEEE Transactions on Affective Computing	0	0	1	0	0	2
+767	Viterbi algorithm	0	0	1	0	0	1
+768	Consumer electronics	0	0	1	0	0	1
+769	Motorcycles	0	0	1	0	0	1
+770	Software agents	0	0	1	0	0	1
+771	System analysis and design	0	0	1	0	0	1
+772	Wires	0	0	1	0	0	1
+773	Web pages	0	0	1	0	0	1
+774	Web and internet services	0	0	1	0	0	1
+775	Video equipment	0	0	1	0	0	1
+776	Quantum cascade lasers	0	0	1	0	0	1
+777	Content distribution networks	0	0	1	0	0	1
+778	Adaptation model	0	0	1	0	0	1
+779	Three dimensional displays	0	0	1	0	0	1
+780	Thermal analysis	0	0	1	0	0	1
+781	Customer service	0	0	1	0	0	1
+782	Subspace constraints	0	0	1	0	0	1
+783	Temperature	0	0	1	0	0	1
+784	Galvanizing	0	0	1	0	0	1
+785	Patient monitoring	0	0	1	0	0	1
+786	Phase detection	0	0	1	0	0	1
+787	Books	0	0	1	0	0	1
+788	Design for experiments	0	0	1	0	0	1
+789	Application software	0	0	1	0	0	1
+790	Frequency	0	0	1	0	0	1
+791	Biology computing	0	0	1	0	0	1
+792	Temperature distribution	0	0	1	0	0	2
+793	MOSFET circuits	0	0	1	0	0	2
+794	Electrons	0	0	1	0	0	2
+795	Degradation	0	0	1	0	0	2
+796	High-K gate dielectrics	0	0	1	0	0	2
+797	High K dielectric materials	0	0	1	0	0	2
+798	Voltage	0	0	1	0	0	2
+799	Chemicals	0	0	1	0	0	2
+800	Hot carriers	0	0	1	0	0	2
+801	Computer displays	0	0	1	0	0	1
+802	Physics computing	0	0	1	0	0	1
+803	Natural languages	0	0	1	0	0	1
