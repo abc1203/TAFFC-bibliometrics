@@ -1,2 +1,2 @@
 # TAFFC-bibliometrics
-Bibliometrics analysis on the IEEE Transactions on Affective Computing
+Bibliometrics analysis on \textit{The IEEE Transactions on Affective Computing}
