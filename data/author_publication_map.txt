@@ -1,0 +1,363 @@
+Id,Label
+1,Aust. J. Intell. Inf. Process. Syst.
+2,Lang. Linguistics Compass
+3,{IEEE} Trans. Emerg. Top. Comput. Intell.
+4,{IEEE} Trans. Signal Process.
+5,J. Phonetics
+6,{IEEE} Trans. Mob. Comput.
+7,{IEEE} {CAA} J. Autom. Sinica
+8,{IEEE} Trans. Veh. Technol.
+9,Math. Methods Oper. Res.
+10,Dagstuhl Reports
+11,Comput. Biol. Medicine
+12,{ISPRS} Int. J. Geo Inf.
+13,Complex.
+14,Inf. Sci.
+15,{IEEE} Trans. Learn. Technol.
+16,Cogn. Comput.
+17,Wirel. Commun. Mob. Comput.
+18,{IEEE} Trans. Geosci. Remote. Sens.
+19,Big Data Min. Anal.
+20,{IEEE} Trans. Ind. Electron.
+21,Sensors
+22,{IEEE} Trans. Vis. Comput. Graph.
+23,Int. J. Comput.
+24,{MMI} Interakt.
+25,Multim. Syst.
+26,{EURASIP} J. Bioinform. Syst. Biol.
+27,Future Internet
+28,Pattern Recognit.
+29,{IEEE} Trans. Robotics Autom.
+30,Neural Comput.
+31,Digit. Signal Process.
+32,Appl. Intell.
+33,Artif. Life Robotics
+34,Entertain. Comput.
+35,{BMC} Medical Informatics Decis. Mak.
+36,J. Netw. Comput. Appl.
+37,{IEEE} Trans. Neural Networks
+38,{IEEE} J. Sel. Areas Commun.
+39,Vis. Comput.
+40,{EAI} Endorsed Trans. Collab. Comput.
+41,J. Softw.
+42,{IEEE} Trans. Biomed. Eng.
+43,Robotics Auton. Syst.
+44,Comput. Vis. Media
+45,J. Assoc. Inf. Sci. Technol.
+46,{IEEE} Trans. Intell. Veh.
+47,{IEEE} Multim.
+48,Neurocomputing
+49,{IET} Biom.
+50,{IEEE} Wirel. Commun.
+51,Medical Biol. Eng. Comput.
+52,Evol. Syst.
+53,Auton. Agents Multi Agent Syst.
+54,Appl. Math. Comput.
+55,Lang. Resour. Evaluation
+56,{EURASIP} J. Image Video Process.
+57,{AI} Mag.
+58,Inf. Technol. Manag.
+59,NeuroImage
+60,Comput. Graph.
+61,Commun. {ACM}
+62,{IBM} Syst. J.
+63,Frontiers Virtual Real.
+64,{AI} Commun.
+65,it Inf. Technol.
+66,Medical Image Anal.
+67,J. Intell. Fuzzy Syst.
+68,{IEEE} Trans. Big Data
+69,Int. J. Distance Educ. Technol.
+70,Inf.
+71,J. Signal Process. Syst.
+72,{BMC} Bioinform.
+73,Int. J. Image Graph.
+74,J. Vis. Commun. Image Represent.
+75,{IEEE} Trans. Evol. Comput.
+76,Knowl. Inf. Syst.
+77,Proc. {ACM} Interact. Mob. Wearable Ubiquitous Technol.
+78,User Model. User Adapt. Interact.
+79,{IEEE} Trans. Comput. Intell. {AI} Games
+80,Expert Syst. J. Knowl. Eng.
+81,Pattern Recognit. Lett.
+82,{IEEE} Trans. Image Process.
+83,Proc. {ACM} Hum. Comput. Interact.
+84,J. Control. Sci. Eng.
+85,Neural Comput. Appl.
+86,Int. J. Comput. Vis.
+87,J. Vis. Lang. Comput.
+88,Int. J. Pattern Recognit. Artif. Intell.
+89,{IEEE} Access
+90,Image Vis. Comput.
+91,{IEICE} Trans. Fundam. Electron. Commun. Comput. Sci.
+92,Mark. Sci.
+93,Pervasive Mob. Comput.
+94,{IEEE} Trans. Syst. Man Cybern. Part {A}
+95,{ACM} Trans. Access. Comput.
+96,J. Multim.
+97,Comput. Optim. Appl.
+98,Int. J. Soc. Robotics
+99,{ACM} Trans. Internet Techn.
+100,Future Gener. Comput. Syst.
+101,Inf. Process. Manag.
+102,J. Medical Syst.
+103,Behav. Inf. Technol.
+104,Comput. Animat. Virtual Worlds
+105,Frontiers Inf. Technol. Electron. Eng.
+106,Asia Pac. J. Oper. Res.
+107,Int. J. Hum. Comput. Interact.
+108,Oper. Res. Lett.
+109,{IEEE} Trans. Emerg. Top. Comput.
+110,Comput. Hum. Behav.
+111,{EURASIP} J. Audio Speech Music. Process.
+112,Sci. Robotics
+113,PeerJ Comput. Sci.
+114,Tech. Sci. Informatiques
+115,{IEEE} Trans. Engineering Management
+116,Real Time Imaging
+117,{IEEE} Intell. Syst.
+118,Health Inf. Sci. Syst.
+119,{IEEE} Trans. Biom. Behav. Identity Sci.
+120,{ACM} Trans. Graph.
+121,Comput. Entertain.
+122,Int. J. Hum. Comput. Stud.
+123,{ACM} Trans. Asian Low Resour. Lang. Inf. Process.
+124,{IEEE} Trans. Cybern.
+125,Ann. des T{\'{e}}l{\'{e}}communications
+126,Int. J. Comput. Integr. Manuf.
+127,{EAI} Endorsed Trans. Future Intell. Educ. Environ.
+128,PeerJ Prepr.
+129,Int. J. Comput. Linguistics Chin. Lang. Process.
+130,Comput. Ind.
+131,Int. J. Artif. Intell. Educ.
+132,{ACM} Trans. Inf. Syst.
+133,{IEEE} Trans. Knowl. Data Eng.
+134,Comput. Math. Methods Medicine
+135,{IEEE} Signal Process. Lett.
+136,{AI} Soc.
+137,{IEEE} Trans. Auton. Ment. Dev.
+138,{IEEE} Trans. Neural Networks Learn. Syst.
+139,Adv. Hum. Comput. Interact.
+140,Comput. Informatics
+141,J. Biomed. Informatics
+142,Int. J. Semantic Comput.
+143,Symmetry
+144,Digit. Humanit. Q.
+145,Phonetica
+146,Data Min. Knowl. Discov.
+147,Sci. China Inf. Sci.
+148,Inf. Syst.
+149,{CAAI} Trans. Intell. Technol.
+150,{EURASIP} J. Adv. Signal Process.
+151,Int. J. Humanoid Robotics
+152,Comput. Vis. Image Underst.
+153,J. Ambient Intell. Smart Environ.
+154,Int. J. Imaging Syst. Technol.
+155,Comput. Intell. Neurosci.
+156,Inf. Process. Lett.
+157,{IEEE} Trans. Artif. Intell.
+158,Digit. Commun. Networks
+159,{ACM} Trans. Comput. Heal.
+160,Speech Commun.
+161,Comput. Secur.
+162,Comput. Graph. Forum
+163,{IEEE} Trans. Very Large Scale Integr. Syst.
+164,Briefings Bioinform.
+165,J. Inf. Commun. Ethics Soc.
+166,Frontiers Comput. Neurosci.
+167,{IEEE} Trans. Syst. Man Cybern. Part {B}
+168,Comput. Ind. Eng.
+169,Quant. Biol.
+170,Int. J. Game Based Learn.
+171,Frontiers {ICT}
+172,Evol. Comput.
+173,Theor. Comput. Sci.
+174,{IEEE} Trans. Intell. Transp. Syst.
+175,World Wide Web
+176,Internet High. Educ.
+177,Math. Program.
+178,{ACM} Trans. Manag. Inf. Syst.
+179,Datenbank-Spektrum
+180,{IEEE} Trans. Pattern Anal. Mach. Intell.
+181,Int. J. Neural Syst.
+182,{ACM} Trans. Comput. Hum. Interact.
+183,Mob. Networks Appl.
+184,{NII} Shonan Meet. Rep.
+185,K{\"{u}}nstliche Intell.
+186,Int. J. Approx. Reason.
+187,Eng. Lett.
+188,{EAI} Endorsed Trans. Pervasive Health Technol.
+189,{ACM} Trans. Appl. Percept.
+190,{IEEE} J. Sel. Top. Signal Process.
+191,Int. J. Web Grid Serv.
+192,Int. J. Virtual Pers. Learn. Environ.
+193,{KSII} Trans. Internet Inf. Syst.
+194,Cyberpsychology Behav. Soc. Netw.
+195,Comput. Speech Lang.
+196,{IEEE} Trans. Consumer Electron.
+197,Frontiers Big Data
+198,Concurr. Comput. Pract. Exp.
+199,J. Comput. Inf. Sci. Eng.
+200,Clust. Comput.
+201,Ann. Oper. Res.
+202,Knowl. Based Syst.
+203,Frontiers Artif. Intell.
+204,Signal Process. Image Commun.
+205,Biomed. Signal Process. Control.
+206,J. Inf. Hiding Multim. Signal Process.
+207,Int. J. Networked Distributed Comput.
+208,Nat. Lang. Eng.
+209,Interact. Learn. Environ.
+210,{IEEE} Trans. Inf. Forensics Secur.
+211,{IACR} Cryptol. ePrint Arch.
+212,Entropy
+213,{IEEE} Trans. Inf. Theory
+214,Artif. Intell. Rev.
+215,Knowl. Eng. Rev.
+216,J. Multimodal User Interfaces
+217,Cogn. Sci.
+218,{IEEE} Trans. Hum. Mach. Syst.
+219,{IEEE} Trans. Syst. Man Cybern. Syst.
+220,Comput. Commun.
+221,{IEEE} Internet Things J.
+222,{IEEE} Geosci. Remote. Sens. Lett.
+223,Comput. Electr. Eng.
+224,{IEEE} Trans. Robotics
+225,World Wide Web {(WWW)}
+226,Int. J. Appl. Earth Obs. Geoinformation
+227,Nat. Mac. Intell.
+228,{IEEE} Trans. Affect. Comput.
+229,Commun. Inf. Syst.
+230,J. Comput. Sci.
+231,{ERCIM} News
+232,Patterns
+233,Int. J. Gaming Comput. Mediat. Simulations
+234,Connect. Sci.
+235,Int. J. Handheld Comput. Res.
+236,J. Electronic Imaging
+237,{IEEE} Trans. Medical Imaging
+238,CoRR
+239,Neural Networks
+240,J. Comput. Appl. Math.
+241,{IEEE} Trans. Biomed. Circuits Syst.
+242,Graph. Model.
+243,Inf. Fusion
+244,{IEEE} Robotics Autom. Lett.
+245,Int. J. Comput. Intell. Syst.
+246,Interact. Comput.
+247,{ACM} Trans. Embed. Comput. Syst.
+248,Int. J. Autom. Comput.
+249,{IEEE} Trans. Educ.
+250,Informationstechnik Tech. Inform.
+251,{IEEE} Netw.
+252,Cogn. Syst. Res.
+253,{IEEE} Trans. Multim.
+254,Multim. Tools Appl.
+255,Int. J. Artif. Intell. Tools
+256,J. Theor. Appl. Electron. Commer. Res.
+257,Comput. Aided Geom. Des.
+258,J. Game Dev.
+259,{IEEE} Trans. Comput. Soc. Syst.
+260,Mach. Vis. Appl.
+261,{IEEE} Trans. Speech Audio Process.
+262,Pers. Ubiquitous Comput.
+263,{ACM} Trans. Interact. Intell. Syst.
+264,Presence Teleoperators Virtual Environ.
+265,{\unicode{35745}}{\unicode{31639}}{\unicode{26426}}{\unicode{31185}}{\unicode{23398}}
+266,Genet. Program. Evolvable Mach.
+267,{IEEE} Commun. Mag.
+268,J. Heal. Informatics Res.
+269,{AI} Matters
+270,Expert Syst. Appl.
+271,Int. J. Inf. Technol. Decis. Mak.
+272,{IEEE} Pervasive Comput.
+273,Trans. Comput. Collect. Intell.
+274,Manuf. Serv. Oper. Manag.
+275,{ACM} Trans. Hum. Robot Interact.
+276,{IEEE} Trans. Circuits Syst. Video Technol.
+277,Comput. J.
+278,J. Math. Imaging Vis.
+279,{IEEE} {ACM} Trans. Audio Speech Lang. Process.
+280,{IEEE} Trans. Games
+281,{ACM} Trans. Speech Lang. Process.
+282,Neural Process. Lett.
+283,{IEEE} Signal Process. Mag.
+284,{IEEE} Trans. Cogn. Dev. Syst.
+285,Int. J. Synth. Emot.
+286,{IEEE} Trans. Reliab.
+287,{IEEE} Trans. Netw. Sci. Eng.
+288,J. Sci. Comput.
+289,{IEEE} Commun. Surv. Tutorials
+290,Appl. Soft Comput.
+291,Pattern Anal. Appl.
+292,Comput. Methods Programs Biomed.
+293,Cogn. Process.
+294,Ad Hoc Networks
+295,Comput. Aided Des.
+296,Frontiers Robotics {AI}
+297,{RFC}
+298,J. Optim. Theory Appl.
+299,J. Comput. Sci. Technol.
+300,Frontiers Digit. Health
+301,Mach. Learn.
+302,Enterp. Inf. Syst.
+303,Int. J. Data Min. Bioinform.
+304,{IEEE} Trans. Inf. Technol. Biomed.
+305,Datenschutz und Datensicherheit (dud)
+306,{IEEE} Trans. Ind. Informatics
+307,Virtual Real. Intell. Hardw.
+308,J. Complex Networks
+309,WIREs Data Mining Knowl. Discov.
+310,Proc. {IEEE}
+311,{IEEE} Trans. Parallel Distributed Syst.
+312,{IEEE} Comput. Intell. Mag.
+313,Rev. d'Intelligence Artif.
+314,Hum. Comput. Interact.
+315,Int. J. Learn. Technol.
+316,{SIGIR} Forum
+317,J. Artif. Intell. Res.
+318,{IEEE} Trans. Fuzzy Syst.
+319,Auton. Robots
+320,{IEICE} Trans. Inf. Syst.
+321,Int. J. Comput. Sci. Eng.
+322,{SIAM} J. Sci. Comput.
+323,Int. J. Speech Technol.
+324,Mach. Transl.
+325,{EURASIP} J. Wirel. Commun. Netw.
+326,J. Ambient Intell. Humaniz. Comput.
+327,Artif. Intell. Medicine
+328,{IEEE} Computer Graphics and Applications
+329,Brain Informatics
+330,Circuits Syst. Signal Process.
+331,{IEEE} Trans. Instrum. Meas.
+332,Simul.
+333,Comput. Medical Imaging Graph.
+334,{ACM} Comput. Surv.
+335,{ACM} Trans. Intell. Syst. Technol.
+336,Autom.
+337,J. Mach. Learn. Res.
+338,Remote. Sens.
+339,Computer
+340,Int. J. Wavelets Multiresolution Inf. Process.
+341,Int. Arab J. Inf. Technol.
+342,{IET} Comput. Vis.
+343,Comput. Sci. Rev.
+344,Hum. Factors
+345,{IET} Image Process.
+346,J. Supercomput.
+347,J. Intell. Inf. Syst.
+348,Artif. Intell.
+349,{ACM} Trans. Multim. Comput. Commun. Appl.
+350,Int. J. Auton. Adapt. Commun. Syst.
+351,{IEEE} {ACM} Trans. Comput. Biol. Bioinform.
+352,Int. J. Knowl. Eng. Soft Data Paradigms
+353,Frontiers Comput. Sci.
+354,{IEEE} Trans Autom. Sci. Eng.
+355,Nat. Mach. Intell.
+356,Int. J. Serious Games
+357,{SIAM} J. Optim.
+358,Comput. Stand. Interfaces
+359,{IEEE} J. Biomed. Health Informatics
+360,Appl. Artif. Intell.
+361,Comput. Educ.
+362,Int. J. Intell. Syst.
